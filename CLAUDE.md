@@ -79,7 +79,8 @@ il faut alors faire deux phrases au lieu d'une, pas supprimer la nuance.
 
 ## Format
 
-- Français, citations bibliques en version Darby révisée.
+- Français, citations bibliques en Darby révisée, Segond 21 et Bible du Semeur,
+  dans cet ordre, groupées dans un même bloc `>` par verset.
 - Markdown, titres en `##` et `###`, citations bibliques en bloc `>`.
 - Ne touche pas au front matter YAML ni à `_config.yml` sans raison.
 

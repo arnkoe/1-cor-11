@@ -1,28 +1,10 @@
 ---
 layout: page
-title: "Exégèse et application"
-description: "Lecture verset par verset du passage sur le voile, et question de son application aujourd'hui."
+title: "1 Cor 11:2-16 : un commentaire verset par verset"
+description: "Lecture suivie du passage sur le voile, puis la question de son application aujourd'hui."
 ---
 
-## Avant de commencer
-
-**Le texte suivi.** Les citations reprennent la Louis Segond 1910. Quand le grec apporte une nuance que la traduction ne rend pas, elle est signalée au passage. Les références au texte grec renvoient au Nestle-Aland et au SBLGNT.
-
-**Le cadre de lecture retenu.** Ces quinze versets règlent la prière et la prophétie dans la vie ordinaire de la communauté : prière en famille, petits groupes, hospitalité, échanges entre croyants. Ils ne visent pas la réunion publique de l'Église, dont Paul traite à partir du v. 17 et surtout au chapitre 14.
-
-Trois observations soutiennent ce découpage.
-
-D'abord le vocabulaire. Le verbe *synerchomai*, « se réunir en assemblée », apparaît pour la première fois au v. 17, puis revient sans cesse : 11.17, 18, 20, 33, 34, et de nouveau en 14.23, 26. Les expressions apparentées, « en Église » et « au même endroit », suivent le même parcours. Aucune ne figure aux v. 2-16.
-
-Ensuite la rupture du v. 17. Paul ouvre le passage par un éloge (v. 2) et ouvre la section suivante par son contraire exact : « ce que je ne loue point ». Deux sujets se succèdent, chacun avec son ton propre.
-
-Enfin la précision du v. 18, « lorsque vous vous réunissez en assemblée ». Elle introduit ce cadre comme une donnée nouvelle du propos. Paul n'aurait pas besoin de la poser si les versets précédents en traitaient déjà.
-
-Un point mérite d'être écarté tout de suite : le lieu ne fournit aucun critère. Les Églises se réunissaient dans des maisons (Rm 16.5 ; 1 Co 16.19 ; Col 4.15 ; Phm 2). Le même espace pouvait accueillir un repas de famille le matin et l'assemblée plénière le soir. La distinction ne porte donc pas sur « maison » contre « bâtiment religieux », mais sur le caractère officiel ou non de la rencontre. Une réunion est publique lorsque l'Église est convoquée comme Église, pour le culte et l'édification commune.
-
-Ce découpage a un mérite immédiat : il lève la tension entre 11.5, où des femmes prient et prophétisent à voix haute, et 14.34-35, où Paul restreint la parole féminine dans l'assemblée. Il reste minoritaire, et il a ses défenseurs, notamment Harold Holmyard. Les lectures rivales sont présentées à la fin du document.
-
-**Comment ce document est construit.** La lecture verset par verset cherche d'abord ce que les premiers destinataires pouvaient comprendre. La question de l'application actuelle est traitée ensuite, dans une section séparée. Mélanger les deux est la source la plus fréquente de confusion sur ce passage.
+Les citations reprennent la Louis Segond 1910 ; quand le grec porte une nuance que la traduction ne rend pas, elle est signalée au passage. La lecture cherche d'abord ce que les premiers destinataires pouvaient comprendre ; la question de l'application actuelle vient ensuite, dans une section séparée.
 
 ---
 
@@ -77,6 +59,10 @@ Il faut ajouter une remarque, qui vaut pour tout le passage. L'étoffe n'a rien 
 > « Toute femme, au contraire, qui prie ou qui prophétise, la tête non voilée, déshonore son chef : c'est comme si elle était rasée. »
 
 **Le présupposé.** Paul admet sans la moindre discussion que des femmes prient et prophétisent à voix haute. Il règle une tenue, pas une permission. Rien dans le verset ne situe la scène dans l'assemblée plénière, et la prophétie féminine se rencontre ailleurs hors de ce cadre : Anne au temple (Lc 2.36-38), les quatre filles de Philippe (Ac 21.9), la promesse de Joël citée à la Pentecôte (Ac 2.17-18).
+
+**Dans quel cadre ?** Le verset oblige à poser la question, puisqu'il autorise ici ce que 14.34-35 restreint dans l'assemblée. Trois indices suggèrent que les v. 2-16 visent la prière et la prophétie de la vie ordinaire — famille, petits groupes, hospitalité — et non la réunion publique. Le vocabulaire d'abord : le verbe *synerchomai*, « se réunir en assemblée », n'apparaît qu'à partir du v. 17 et revient ensuite sans cesse (11.17, 18, 20, 33, 34 ; 14.23, 26), comme les expressions « en Église » et « au même endroit » ; aucune ne figure dans notre passage. La rupture du v. 17 ensuite : Paul ouvre par un éloge (v. 2) et ouvre la section suivante par son contraire exact, « ce que je ne loue point ». La précision du v. 18 enfin, « lorsque vous vous réunissez en assemblée », introduit ce cadre comme une donnée nouvelle, inutile à poser s'il valait déjà pour ce qui précède.
+
+Le lieu ne fournit aucun critère : les Églises se réunissaient dans des maisons (Rm 16.5 ; 1 Co 16.19 ; Col 4.15 ; Phm 2), et le même espace pouvait accueillir un repas de famille le matin et l'assemblée plénière le soir. Ce qui distingue est le caractère officiel de la rencontre : une réunion est publique lorsque l'Église est convoquée comme Église. Cette lecture reste minoritaire — elle a ses défenseurs, notamment Harold Holmyard — et les lectures rivales sont présentées à la fin du document. Elle ne change rien à l'exégèse des versets qui suivent : l'argument de Paul porte sur ce qui doit paraître au moment de la prière, quel que soit le cadre retenu.
 
 **Qui est déshonoré ?** D'abord sa propre tête, comme le montre la comparaison qui suit. Le v. 3 fait aussi entendre une tête relationnelle : dans une lecture conjugale, le mari est le référent le plus direct. Hors du mariage, Paul ne dit pas quel homme serait personnellement déshonoré, et le verset ne permet pas d'affirmer qu'une femme déshonorerait chaque homme présent. Ce qui est certain est plus simple : en retirant sa couverture, elle rend sa propre tête honteuse et refuse le signe qui reconnaissait l'ordre du v. 3.
 

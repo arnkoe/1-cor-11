@@ -12,14 +12,6 @@ body {
   line-height: 1.7;
 }
 
-.site-title {
-  margin: 0 0 1.5rem;
-  font-size: 0.8125rem;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: #666;
-}
-
 .page-header {
   margin-bottom: 4rem;
 }

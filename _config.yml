@@ -7,12 +7,5 @@ theme: minima
 url: "https://arnkoe.github.io"
 baseurl: "/1-cor-11"
 
-# Ordre des chapitres dans la barre de navigation
-header_pages:
-  - introduction.md
-  - commentaire.md
-  - conclusions.md
-  - sources.md
-
 exclude:
   - Sources/

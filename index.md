@@ -22,7 +22,7 @@ On cherche d'abord ce que les premiers lecteurs de Paul pouvaient comprendre. La
 
 Le mot traduit par « instructions » veut dire « traditions ». C'est le terme technique de la transmission. Il désigne un contenu reçu, gardé et retransmis. Pas une simple habitude locale.
 
-La fin du verset va dans le même sens. « Comme je vous les ai données » traduit un verbe qui veut plus littéralement dire « transmises ». La note de l'édition renvoie au v. 23, où Paul emploie le même verbe pour la Cène. Il s'en sert aussi en 15.3, pour le résumé de l'Évangile.
+La fin du verset va dans le même sens. « Comme je vous les ai données » traduit un verbe qui veut plus littéralement dire « transmises ». La Darby révisée le signale en note et renvoie au v. 23, où Paul emploie le même verbe pour la Cène. Il s'en sert aussi en 15.3, pour le résumé de l'Évangile.
 
 L'éloge est sincère, mais il sert d'entrée en matière. Le « pourtant » du v. 3 annonce une correction : les Corinthiens tiennent bien la tradition, un point demande une mise au point.
 
@@ -30,7 +30,7 @@ L'éloge est sincère, mais il sert d'entrée en matière. Le « pourtant » du 
 
 > « Je veux pourtant que vous le sachiez : le chef de tout homme, c'est le Christ ; le chef de la femme, c'est l'homme ; le chef du Christ, c'est Dieu. »
 
-**Un mot sur la traduction.** Le verset porte trois fois « chef ». Le grec porte le mot « tête ». Le même mot revient aux v. 4-5 et 10, cette fois pour la tête au sens physique, et la traduction écrit alors « tête ». L'édition le signale en note : « chef, litt. : tête, dans tout le v. 3 ; le même mot désigne la tête aux v. suivants. » Paul joue sur les deux sens du début à la fin du passage. Le lecteur français voit donc deux mots là où l'apôtre n'en emploie qu'un.
+**Un mot sur la traduction.** Le verset porte trois fois « chef ». Le grec porte le mot « tête ». Le même mot revient aux v. 4-5 et 10, cette fois pour la tête au sens physique, et les versions écrivent alors « tête ». La Darby révisée le signale en note : « chef, litt. : tête, dans tout le v. 3 ; le même mot désigne la tête aux v. suivants. » Paul joue sur les deux sens du début à la fin du passage. Le lecteur français voit donc deux mots là où l'apôtre n'en emploie qu'un.
 
 **Que veut dire ce mot ?** Deux lectures s'affrontent : « autorité sur, celui qui est à la tête de » et « source, origine ». Le grec de l'époque connaît les deux emplois. Deux affirmations sont donc trop rapides : dire que le mot veut toujours dire « source », et refuser toute idée d'origine. Un mot à plusieurs sens ne les porte pas tous à chaque fois. C'est le contexte qui tranche.
 
@@ -46,13 +46,13 @@ Sur le plan du vocabulaire, Joseph Fitzmyer a relevé des emplois de ce mot au s
 
 Le verset ne donne pas non plus à chaque homme une autorité personnelle sur chaque femme. Paul ne nomme aucun homme, aucun domaine, aucune façon d'exercer une telle autorité. Dans ce passage, la conséquence concrète tient en un point : les hommes et les femmes portent des signes différents quand ils prient ou prophétisent.
 
-**Un détail de vocabulaire.** Le mot traduit par « homme » veut aussi dire « mari ». Celui traduit par « femme » veut aussi dire « épouse ». Le grec ne tranche pas. L'argument tiré de la création (v. 8-9) et les formules générales des v. 4-5 et 14-15 supposent une portée large. La note de l'édition va dans ce sens : elle glose « l'homme en contraste avec la femme, jusqu'au v. 15 inclus ». Le mariage reste l'application personnelle la plus directe.
+**Un détail de vocabulaire.** Le mot traduit par « homme » veut aussi dire « mari ». Celui traduit par « femme » veut aussi dire « épouse ». Le grec ne tranche pas. L'argument tiré de la création (v. 8-9) et les formules générales des v. 4-5 et 14-15 supposent une portée large. La note de la Darby révisée va dans ce sens : elle glose « l'homme en contraste avec la femme, jusqu'au v. 15 inclus ». Le mariage reste l'application personnelle la plus directe.
 
 ### v. 4
 
 > « Tout homme qui prie ou qui prophétise en ayant [quelque chose] sur la tête déshonore sa tête ; »
 
-**De quoi parle-t-on, concrètement ?** Le grec dit seulement « ayant sur la tête », sans nommer l'objet. Les crochets signalent cet ajout. Il s'agit très probablement d'un tissu ou d'un pan de vêtement ramené sur la tête. Le v. 6 distinguera cette couverture des cheveux : il ne s'agit donc pas d'une coiffure.
+**De quoi parle-t-on, concrètement ?** Le grec dit seulement « ayant sur la tête », sans nommer l'objet. Les crochets de la Darby révisée signalent cet ajout. Il s'agit très probablement d'un tissu ou d'un pan de vêtement ramené sur la tête. Le v. 6 distinguera cette couverture des cheveux : il ne s'agit donc pas d'une coiffure.
 
 Un mot sur le vocabulaire employé ici. La traduction dit « couvert » et « couverte » ; le mot « voile » n'apparaît qu'au v. 15, et pour un autre terme grec. Ce commentaire écrit « voile » comme raccourci pour cette couverture.
 
@@ -152,7 +152,7 @@ Le point est décisif pour la suite. Ce que Paul invoque ici, ce n'est pas un us
 
 > « C'est pourquoi la femme, à cause des anges, doit avoir sur la tête [une marque de] cette autorité. »
 
-**Ce que porte le grec.** La phrase dit littéralement que la femme doit « avoir autorité sur la tête ». Les crochets signalent l'ajout de « une marque de » ; le démonstratif « cette » est lui aussi un choix du traducteur, qui renvoie à l'ordre du v. 3. Beaucoup de versions ajoutent la même chose sans le signaler. Deux lectures sont défendues.
+**Ce que porte le grec.** La phrase dit littéralement que la femme doit « avoir autorité sur la tête ». Les crochets de la Darby révisée signalent l'ajout de « une marque de » ; le démonstratif « cette » est lui aussi un choix du traducteur, qui renvoie à l'ordre du v. 3. Les autres versions ajoutent la même chose sans le signaler. Deux lectures sont défendues.
 
 La première est active. La femme exerce une maîtrise sur sa propre tête, et le voile est le signe qui l'habilite à prier et à prophétiser. Morna Hooker a fait remarquer que la tournure « avoir autorité sur » désigne partout ailleurs une autorité exercée par le sujet, jamais une autorité subie.
 
@@ -205,7 +205,7 @@ Deux détails encore. Paul écrit « prie Dieu », sans préciser le cadre : la 
 
 Les deux aspects comptent. La différence est réelle, ce n'est pas une pure convention. Mais sa forme visible varie. Les cheveux longs chez un homme n'ont pas toujours été tenus pour un déshonneur dans le monde biblique : le vœu de naziréat les imposait (Nb 6.5), Absalom en tirait fierté (2 S 14.26), et les Spartiates les portaient. Paul ne fixe d'ailleurs aucune longueur. Son point porte sur la différence : une apparence reconnue comme féminine déshonore l'homme qui l'adopte comme telle. L'ordre entre les sexes fournit le fondement ; l'usage social le rend lisible.
 
-**« En guise de voile ».** Le grec porte une formule qui veut dire « à la place d'un vêtement » ou « en correspondance avec un vêtement ». Le mot rendu par « voile » n'est pas celui des versets précédents : l'édition le glose « ici, ce qui enveloppe, ce qui revêt ». La traduction porte « en guise de voile », ce qui va dans le premier sens. Deux lectures s'opposent.
+**« En guise de voile ».** Le grec porte une formule qui veut dire « à la place d'un vêtement » ou « en correspondance avec un vêtement ». Le mot rendu par « voile » n'est pas celui des versets précédents : la Darby révisée le glose « ici, ce qui enveloppe, ce qui revêt ». Elle porte « en guise de voile », ce qui va dans le premier sens. Deux lectures s'opposent.
 
 La première fait des cheveux le voile demandé, ce qui rendrait tout tissu inutile. La seconde y voit une comparaison : la nature a donné une couverture à la femme, ce qui rend le voile de tissu conforme à l'ordre des choses.
 

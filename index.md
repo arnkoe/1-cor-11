@@ -20,7 +20,7 @@ On cherche d'abord ce que les premiers lecteurs de Paul pouvaient comprendre. La
 
 > « Je vous loue de ce que vous vous souvenez de moi à tous égards, et de ce que vous retenez mes instructions telles que je vous les ai données. »
 
-Le mot traduit par « instructions » est *paradoseis*, « traditions ». C'est le mot technique de la transmission. Paul l'emploie aussi en 11.23 et 15.3, pour la Cène et pour le résumé de l'Évangile. Il désigne un contenu reçu, gardé et retransmis. Pas une simple habitude locale.
+Le mot traduit par « instructions » veut dire « traditions ». C'est le terme technique de la transmission. Paul l'emploie aussi en 11.23 et 15.3, pour la Cène et pour le résumé de l'Évangile. Il désigne un contenu reçu, gardé et retransmis. Pas une simple habitude locale.
 
 L'éloge est sincère, mais il sert d'entrée en matière. Le « cependant » du v. 3 annonce une correction : les Corinthiens tiennent bien la tradition, un point demande une mise au point.
 
@@ -28,13 +28,13 @@ L'éloge est sincère, mais il sert d'entrée en matière. Le « cependant » du
 
 > « Je veux cependant que vous sachiez que Christ est le chef de tout homme, que l'homme est le chef de la femme, et que Dieu est le chef de Christ. »
 
-**Un mot sur la traduction.** Segond écrit « chef ». Le grec porte *kephalè*, « tête ». Le même mot revient aux v. 4-5 et 10, cette fois pour la tête au sens physique. Paul joue sur les deux sens du début à la fin du passage. La traduction française fait disparaître ce fil.
+**Un mot sur la traduction.** Segond écrit « chef ». Le grec porte le mot « tête ». Le même mot revient aux v. 4-5 et 10, cette fois pour la tête au sens physique. Paul joue sur les deux sens du début à la fin du passage. La traduction française fait disparaître ce fil.
 
-**Que veut dire *kephalè* ?** Deux lectures s'affrontent : « autorité sur, celui qui est à la tête de » et « source, origine ». Le grec de l'époque connaît les deux emplois. Deux affirmations sont donc trop rapides : dire que le mot veut toujours dire « source », et refuser toute idée d'origine. Un mot à plusieurs sens ne les porte pas tous à chaque fois. C'est le contexte qui tranche.
+**Que veut dire ce mot ?** Deux lectures s'affrontent : « autorité sur, celui qui est à la tête de » et « source, origine ». Le grec de l'époque connaît les deux emplois. Deux affirmations sont donc trop rapides : dire que le mot veut toujours dire « source », et refuser toute idée d'origine. Un mot à plusieurs sens ne les porte pas tous à chaque fois. C'est le contexte qui tranche.
 
 Ici, le contexte penche du côté de la position et de l'honneur. Les v. 4-10 parlent tous de l'honneur dû à une tête, et du signe qui reconnaît un ordre établi. L'idée d'origine n'est pas absente pour autant. Les v. 8 et 12 diront que la femme vient de l'homme, et que l'homme vient par la femme. Elle reste en arrière-plan, sans former le sens principal. Une troisième proposition, « ce qui est en avant, ce qui ressort », a l'avantage de couvrir les deux idées à la fois.
 
-Sur le plan du vocabulaire, Joseph Fitzmyer a relevé des emplois de *kephalè* au sens de chef ou de personne en autorité dans la Septante, chez Philon et chez Josèphe. Jerome Murphy-O'Connor avait d'abord soutenu que le mot ne pouvait dire que « source » à l'époque de Paul ; il est ensuite revenu sur cette affirmation. Ces travaux montrent que le sens d'autorité est possible. Ils ne rendent pas le sens d'origine impossible ailleurs.
+Sur le plan du vocabulaire, Joseph Fitzmyer a relevé des emplois de ce mot au sens de chef ou de personne en autorité dans la Septante, chez Philon et chez Josèphe. Jerome Murphy-O'Connor avait d'abord soutenu que le mot ne pouvait dire que « source » à l'époque de Paul ; il est ensuite revenu sur cette affirmation. Ces travaux montrent que le sens d'autorité est possible. Ils ne rendent pas le sens d'origine impossible ailleurs.
 
 **L'ordre de la liste.** Christ et homme, puis homme et femme, puis Dieu et Christ. Une hiérarchie descendante donnerait plutôt Dieu, Christ, homme, femme. Paul met trois relations côte à côte sans les enchaîner. Il éclaire celle du milieu par les deux autres.
 
@@ -44,7 +44,7 @@ Sur le plan du vocabulaire, Joseph Fitzmyer a relevé des emplois de *kephalè* 
 
 Le verset ne donne pas non plus à chaque homme une autorité personnelle sur chaque femme. Paul ne nomme aucun homme, aucun domaine, aucune façon d'exercer une telle autorité. Dans ce passage, la conséquence concrète tient en un point : les hommes et les femmes portent des signes différents quand ils prient ou prophétisent.
 
-**Un détail de vocabulaire.** *Anèr* veut dire « homme » ou « mari ». *Gunè* veut dire « femme » ou « épouse ». Le grec ne tranche pas. L'argument tiré de la création (v. 8-9) et les formules générales des v. 4-5 et 14-15 supposent une portée large. Le mariage reste l'application personnelle la plus directe.
+**Un détail de vocabulaire.** Le mot traduit par « homme » veut aussi dire « mari ». Celui traduit par « femme » veut aussi dire « épouse ». Le grec ne tranche pas. L'argument tiré de la création (v. 8-9) et les formules générales des v. 4-5 et 14-15 supposent une portée large. Le mariage reste l'application personnelle la plus directe.
 
 ### v. 4
 
@@ -76,7 +76,7 @@ Rien dans le verset ne place la scène dans l'assemblée au complet. Et on trouv
 
 **Dans quel cadre ?** La question se pose, parce que le verset autorise ici ce que 14.34-35 restreint dans l'assemblée. Trois indices suggèrent que les v. 2-16 visent la prière et la prophétie de la vie ordinaire (la famille, les petits groupes, l'hospitalité) et non la réunion publique.
 
-D'abord le vocabulaire. Le verbe *synerchomai*, « se réunir en assemblée », n'apparaît qu'à partir du v. 17. Il revient ensuite sans arrêt (11.17, 18, 20, 33, 34 ; 14.23, 26), avec les expressions « en Église » et « au même endroit ». Aucune de ces formules ne figure dans notre passage.
+D'abord le vocabulaire. Le verbe qui veut dire « se réunir en assemblée » n'apparaît qu'à partir du v. 17. Il revient ensuite sans arrêt (11.17, 18, 20, 33, 34 ; 14.23, 26), avec les expressions « en Église » et « au même endroit ». Aucune de ces formules ne figure dans notre passage.
 
 Ensuite la rupture du v. 17. Paul avait ouvert par un éloge (v. 2). Il ouvre la section suivante par l'inverse exact : « ce que je ne loue point ».
 
@@ -118,7 +118,7 @@ Bruce Winter a proposé de rattacher ce comportement à la « femme nouvelle »,
 
 **Ce que Paul ne dit pas.** Il n'écrit pas que la femme est l'image de l'homme. Le déséquilibre de la formule est voulu. Genèse 1.27 place l'homme et la femme ensemble sous l'image de Dieu, et Paul n'y touche pas. Il change de registre et parle de gloire.
 
-**Ce qu'est une gloire.** *Doxa* désigne ici ce qui rend visible la valeur de quelqu'un d'autre, ce qui lui fait honneur en le montrant. Être la gloire de quelqu'un, c'est le révéler.
+**Ce qu'est une gloire.** Le mot désigne ici ce qui rend visible la valeur de quelqu'un d'autre, ce qui lui fait honneur en le montrant. Être la gloire de quelqu'un, c'est le révéler.
 
 **En quoi la femme est la gloire de l'homme.** Les v. 8-9 répondent, à partir de Genèse 2. La réponse tient en trois traits.
 
@@ -136,7 +136,7 @@ Le vocabulaire biblique va dans le même sens : « Une femme vertueuse est la co
 
 > « En effet, l'homme n'a pas été tiré de la femme, mais la femme a été tirée de l'homme ; et l'homme n'a pas été créé à cause de la femme, mais la femme a été créée à cause de l'homme. »
 
-Paul remonte à Genèse 2 et retient deux données du récit : l'origine (Gn 2.21-22) et la vocation (Gn 2.18). « À cause de » traduit *dia* suivi de l'accusatif, c'est-à-dire « en vue de lui, pour son bien ».
+Paul remonte à Genèse 2 et retient deux données du récit : l'origine (Gn 2.21-22) et la vocation (Gn 2.18). « À cause de » traduit une tournure qui veut dire « en vue de lui, pour son bien ».
 
 **Sur le mot « aide ».** Genèse 2.18 emploie un terme qui, ailleurs dans l'Ancien Testament, s'applique à Dieu lui-même. Il n'exprime donc aucune dignité moindre, et il ne fait pas de la femme un instrument au service des désirs masculins.
 
@@ -148,7 +148,7 @@ Le point est décisif pour la suite. Ce que Paul invoque ici, ce n'est pas un us
 
 > « C'est pourquoi la femme, à cause des anges, doit avoir sur la tête une marque de l'autorité dont elle dépend. »
 
-**Ce que porte le grec.** La phrase dit littéralement que la femme doit « avoir autorité sur la tête » (*exousian echein epi tès kephalès*). Les mots « marque de » et « dont elle dépend » sont des ajouts de Segond, et beaucoup de versions font de même. Deux lectures sont défendues.
+**Ce que porte le grec.** La phrase dit littéralement que la femme doit « avoir autorité sur la tête ». Les mots « marque de » et « dont elle dépend » sont des ajouts de Segond, et beaucoup de versions font de même. Deux lectures sont défendues.
 
 La première est active. La femme exerce une maîtrise sur sa propre tête, et le voile est le signe qui l'habilite à prier et à prophétiser. Morna Hooker a fait remarquer que la tournure « avoir autorité sur » désigne partout ailleurs une autorité exercée par le sujet, jamais une autorité subie.
 
@@ -175,7 +175,7 @@ Paul ne développe pas son allusion, et il serait imprudent d'en dire plus. Ce q
 
 > « Toutefois, dans le Seigneur, la femme n'est point sans l'homme, ni l'homme sans la femme. Car, de même que la femme a été tirée de l'homme, de même l'homme existe par la femme, et tout vient de Dieu. »
 
-Le « toutefois » traduit *plèn*, une particule qui coupe et qui corrige. Paul ferme lui-même la porte que son argument venait d'entrouvrir. Il ne retire rien de ce qu'il a écrit, mais il interdit d'en tirer une indépendance ou une supériorité masculine.
+Le « toutefois » traduit une particule qui coupe et qui corrige. Paul ferme lui-même la porte que son argument venait d'entrouvrir. Il ne retire rien de ce qu'il a écrit, mais il interdit d'en tirer une indépendance ou une supériorité masculine.
 
 Le v. 12 renverse la perspective du v. 8. Le premier homme est venu avant la femme. Depuis, chaque homme naît d'une femme. La dépendance joue dans les deux sens, et l'origine d'Ève ne peut donc pas servir de motif d'orgueil.
 
@@ -189,7 +189,7 @@ La fin du verset déplace le fondement une dernière fois : « tout vient de Die
 
 Paul laisse de côté l'argument d'autorité et fait appel au jugement de ses lecteurs. Le verbe « juger » leur confie la conclusion. Un apôtre qui sait commander quand il le veut (7.10 ; 14.37) choisit ici de ne pas le faire. La question est rhétorique, et il attend un « non ». Mais la forme compte.
 
-Le critère qu'il invoque, c'est ce qui convient (*prepon*), c'est-à-dire ce qui va de soi pour un groupe donné. Un tel critère suppose un sens partagé, et un sens partagé se forme dans une culture.
+Le critère qu'il invoque, c'est ce qui convient, c'est-à-dire ce qui va de soi pour un groupe donné. Un tel critère suppose un sens partagé, et un sens partagé se forme dans une culture.
 
 Deux détails encore. Paul écrit « prie Dieu », sans préciser le cadre : la scène évoquée peut rester très simple. Et le verbe décrit une prière qu'on entend et qu'on voit, ce qui correspond à une pratique communautaire ordinaire plutôt qu'avec la prière intérieure ou solitaire.
 
@@ -197,15 +197,15 @@ Deux détails encore. Paul écrit « prie Dieu », sans préciser le cadre : la 
 
 > « La nature elle-même ne vous enseigne-t-elle pas que c'est une honte pour l'homme de porter de longs cheveux, mais que c'est une gloire pour la femme d'en porter, parce que la chevelure lui a été donnée comme voile ? »
 
-**Ce que veut dire « nature ».** *Physis* ne renvoie pas ici à la pure biologie, puisque les cheveux poussent chez tout le monde. Le mot désigne la différence entre les sexes telle qu'elle appartient à l'ordre du monde, et telle qu'un groupe la perçoit et la confirme par ses usages.
+**Ce que veut dire « nature ».** Le mot ne renvoie pas ici à la pure biologie, puisque les cheveux poussent chez tout le monde. Il désigne la différence entre les sexes telle qu'elle appartient à l'ordre du monde, et telle qu'un groupe la perçoit et la confirme par ses usages.
 
 Les deux aspects comptent. La différence est réelle, ce n'est pas une pure convention. Mais sa forme visible varie. Les cheveux longs chez un homme n'ont pas toujours passé pour honteux dans le monde biblique : le vœu de naziréat les imposait (Nb 6.5), Absalom en tirait fierté (2 S 14.26), et les Spartiates les portaient. Paul ne fixe d'ailleurs aucune longueur. Son point porte sur la différence : une apparence reconnue comme féminine déshonore l'homme qui l'adopte comme telle. L'ordre entre les sexes fournit le fondement ; l'usage social le rend lisible.
 
-**« Comme voile ».** Le grec porte *anti peribolaiou*, « à la place d'un vêtement » ou « en correspondance avec un vêtement ». Deux lectures s'opposent.
+**« Comme voile ».** Le grec porte une formule qui veut dire « à la place d'un vêtement » ou « en correspondance avec un vêtement ». Deux lectures s'opposent.
 
 La première fait des cheveux le voile demandé, ce qui rendrait tout tissu inutile. La seconde y voit une comparaison : la nature a donné une couverture à la femme, ce qui rend le voile de tissu conforme à l'ordre des choses.
 
-La seconde paraît la bonne, pour la raison déjà vue au v. 6. Le passage distingue les deux termes, et les confondre rend ce verset absurde. La préposition *anti* peut très bien exprimer une correspondance. Paul va donc du naturel vers le conventionnel : les cheveux suggèrent déjà le geste qu'il recommande.
+La seconde paraît la bonne, pour la raison déjà vue au v. 6. Le passage distingue les deux termes, et les confondre rend ce verset absurde. La préposition employée peut très bien exprimer une correspondance. Paul va donc du naturel vers le conventionnel : les cheveux suggèrent déjà le geste qu'il recommande.
 
 **Un détail à noter.** Paul appelle les cheveux de la femme « une gloire » pour elle, alors que le v. 7 faisait de la femme la gloire de l'homme. Les deux tiennent ensemble : ce qui fait sa beauté propre fait aussi l'honneur de celui dont elle vient.
 
@@ -213,9 +213,9 @@ La seconde paraît la bonne, pour la raison déjà vue au v. 6. Le passage disti
 
 > « Si quelqu'un se plaît à contester, nous n'avons pas cette habitude, non plus que les Églises de Dieu. »
 
-**« Cette habitude » (*toiautèn synètheian*).** Deux référents sont possibles : l'esprit de dispute, ou le refus de la pratique exposée. La syntaxe impose la première lecture, parce que le pronom renvoie à ce qui précède immédiatement. Paul refuse d'alimenter la polémique. De toute façon, la phrase ne peut pas vouloir dire que les Églises ignoraient le couvre-chef : cela contredirait tout ce qui précède.
+**« Cette habitude ».** Deux référents sont possibles : l'esprit de dispute, ou le refus de la pratique exposée. La syntaxe impose la première lecture, parce que le pronom renvoie à ce qui précède immédiatement. Paul refuse d'alimenter la polémique. De toute façon, la phrase ne peut pas vouloir dire que les Églises ignoraient le couvre-chef : cela contredirait tout ce qui précède.
 
-**Sur quoi Paul termine.** Le mot *synètheia* désigne un usage, une coutume. Paul finit en renvoyant à la pratique commune des Églises, ce qui montre que la règle n'était pas inventée pour Corinthe.
+**Sur quoi Paul termine.** Le mot traduit par « habitude » désigne un usage, une coutume. Paul finit en renvoyant à la pratique commune des Églises, ce qui montre que la règle n'était pas inventée pour Corinthe.
 
 Ce choix mérite attention. Ailleurs dans la même lettre, quand il veut donner le maximum de poids à une consigne, Paul invoque le Seigneur lui-même (7.10 ; 11.23) ou parle de commandement (14.37). Ici, rien de tel : le dernier mot revient à un usage partagé. Le verset atteste donc solidement l'étendue de la pratique au premier siècle. Il ne dit pas combien de temps ce même signe matériel devait être gardé.
 
@@ -255,7 +255,7 @@ L'application est une autre question. Paul impose-t-il l'objet à toutes les cul
 
 **Les femmes prient et prophétisent.** Le v. 5 le tient pour acquis, dans les cadres visés ici. Une communauté qui ferait taire les femmes en dehors de l'assemblée au complet irait plus loin que le Nouveau Testament.
 
-**Rien ne doit cacher la gloire de Dieu chez celui qui prie.** Chez les hommes, l'application semble d'abord vide : il n'existe plus d'équivalent moderne au *capite velato*. Elle ne l'est pas. Le principe vise tout ce qu'un homme met en avant de lui-même devant Dieu : sa fonction, sa réputation, sa maîtrise du vocabulaire spirituel. Ces insignes-là existent toujours.
+**Rien ne doit cacher la gloire de Dieu chez celui qui prie.** Chez les hommes, l'application semble d'abord vide : il n'existe plus d'équivalent moderne à la tête couverte des Romains. Elle ne l'est pas. Le principe vise tout ce qu'un homme met en avant de lui-même devant Dieu : sa fonction, sa réputation, sa maîtrise du vocabulaire spirituel. Ces insignes-là existent toujours.
 
 ### Ce qui relève du signe
 
@@ -303,7 +303,7 @@ Dans le monde de Paul, la conséquence se voyait immédiatement : l'homme restai
 
 Ce qu'il exclut est clair, en revanche. Aucun homme ne reçoit d'autorité personnelle sur une femme du seul fait d'être un homme. Une femme peut prier ou prophétiser dans le cadre permis sans intermédiaire masculin et sans l'accord des hommes présents. Aucun homme ne la représente devant Dieu : elle prie elle-même. Un voisin, un collègue, un frère dans l'Église ne devient pas son supérieur à cause de son sexe.
 
-Reste la question des responsabilités de direction dans l'Église. Elle ne se règle pas à partir de ce passage, mais à partir d'autres textes lus ensemble (1 Co 14, 1 Tm 2-3, Tt 1), et elle est débattue. Dans la lecture qui réserve la direction doctrinale et le gouvernement à des hommes qualifiés et reconnus, c'est là que se situe l'application institutionnelle de l'ordre du v. 3. Elle vient de l'ensemble de ces textes, pas du mot *kephalè* pris isolément ni du couvre-chef pris à part. Et même dans cette lecture, un responsable exerce sa charge envers toute la communauté, hommes compris, et un homme sans charge n'en tire rien.
+Reste la question des responsabilités de direction dans l'Église. Elle ne se règle pas à partir de ce passage, mais à partir d'autres textes lus ensemble (1 Co 14, 1 Tm 2-3, Tt 1), et elle est débattue. Dans la lecture qui réserve la direction doctrinale et le gouvernement à des hommes qualifiés et reconnus, c'est là que se situe l'application institutionnelle de l'ordre du v. 3. Elle vient de l'ensemble de ces textes, pas du mot « tête » pris isolément ni du couvre-chef pris à part. Et même dans cette lecture, un responsable exerce sa charge envers toute la communauté, hommes compris, et un homme sans charge n'en tire rien.
 
 **Que veut dire aujourd'hui « la femme est la gloire de l'homme » ?**
 

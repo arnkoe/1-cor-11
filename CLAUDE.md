@@ -79,7 +79,7 @@ il faut alors faire deux phrases au lieu d'une, pas supprimer la nuance.
 
 ## Format
 
-- Français, citations bibliques en Louis Segond 1910.
+- Français, citations bibliques en version Darby révisée.
 - Markdown, titres en `##` et `###`, citations bibliques en bloc `>`.
 - Ne touche pas au front matter YAML ni à `_config.yml` sans raison.
 

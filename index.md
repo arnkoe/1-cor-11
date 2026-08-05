@@ -8,7 +8,7 @@ description: "On lit le passage sur le voile verset par verset, puis on regarde 
 
 *On lit le passage sur le voile verset par verset, puis on regarde ce qu'il demande aujourd'hui.*
 
-Les citations viennent de la Louis Segond 1910. Quand le grec dit quelque chose que la traduction ne rend pas, c'est signalé au passage.
+Les citations viennent de la version Darby révisée. Les crochets y signalent les mots ajoutés par le traducteur, absents du grec. Quand le grec dit quelque chose que la traduction ne rend pas, c'est signalé au passage.
 
 On cherche d'abord ce que les premiers lecteurs de Paul pouvaient comprendre. La question de l'application aujourd'hui vient après, dans une section à part.
 
@@ -18,17 +18,17 @@ On cherche d'abord ce que les premiers lecteurs de Paul pouvaient comprendre. La
 
 ### v. 2
 
-> « Je vous loue de ce que vous vous souvenez de moi à tous égards, et de ce que vous retenez mes instructions telles que je vous les ai données. »
+> « Or je vous loue de ce que vous vous souvenez de moi en toutes choses, et de ce que vous gardez les enseignements, comme je vous les ai donnés. »
 
-Le mot traduit par « instructions » veut dire « traditions ». C'est le terme technique de la transmission. Paul l'emploie aussi en 11.23 et 15.3, pour la Cène et pour le résumé de l'Évangile. Il désigne un contenu reçu, gardé et retransmis. Pas une simple habitude locale.
+Le mot traduit par « enseignements » veut dire « traditions ». C'est le terme technique de la transmission. Le verbe de la même famille revient en 11.23 et 15.3, pour la Cène et pour le résumé de l'Évangile. Il désigne un contenu reçu, gardé et retransmis. Pas une simple habitude locale.
 
-L'éloge est sincère, mais il sert d'entrée en matière. Le « cependant » du v. 3 annonce une correction : les Corinthiens tiennent bien la tradition, un point demande une mise au point.
+L'éloge est sincère, mais il sert d'entrée en matière. Le « mais » du v. 3 annonce une correction : les Corinthiens tiennent bien la tradition, un point demande une mise au point.
 
 ### v. 3
 
-> « Je veux cependant que vous sachiez que Christ est le chef de tout homme, que l'homme est le chef de la femme, et que Dieu est le chef de Christ. »
+> « Mais je veux que vous sachiez que le chef de tout homme, c'est le Christ, et que le chef de la femme, c'est l'homme, et que le chef du Christ, c'est Dieu. »
 
-**Un mot sur la traduction.** Segond écrit « chef ». Le grec porte le mot « tête ». Le même mot revient aux v. 4-5 et 10, cette fois pour la tête au sens physique. Paul joue sur les deux sens du début à la fin du passage. La traduction française fait disparaître ce fil.
+**Un mot sur la traduction.** Darby écrit « chef » trois fois. Le grec porte le mot « tête ». Le même mot revient aux v. 4-5 et 10, cette fois pour la tête au sens physique, et Darby le traduit alors par « tête ». Paul joue sur les deux sens du début à la fin du passage. Le lecteur français voit donc deux mots là où l'apôtre n'en emploie qu'un.
 
 **Que veut dire ce mot ?** Deux lectures s'affrontent : « autorité sur, celui qui est à la tête de » et « source, origine ». Le grec de l'époque connaît les deux emplois. Deux affirmations sont donc trop rapides : dire que le mot veut toujours dire « source », et refuser toute idée d'origine. Un mot à plusieurs sens ne les porte pas tous à chaque fois. C'est le contexte qui tranche.
 
@@ -48,9 +48,9 @@ Le verset ne donne pas non plus à chaque homme une autorité personnelle sur ch
 
 ### v. 4
 
-> « Tout homme qui prie ou qui prophétise, la tête couverte, déshonore son chef. »
+> « Tout homme qui prie ou qui prophétise en ayant [quelque chose] sur la tête, déshonore sa tête ; »
 
-**De quoi parle-t-on, concrètement ?** Très probablement d'un tissu ou d'un pan de vêtement ramené sur la tête. Le v. 6 distinguera cette couverture des cheveux : il ne s'agit donc pas d'une coiffure.
+**De quoi parle-t-on, concrètement ?** Le grec dit seulement « ayant sur la tête », sans nommer l'objet. Les crochets de Darby signalent cet ajout. Il s'agit très probablement d'un tissu ou d'un pan de vêtement ramené sur la tête. Le v. 6 distinguera cette couverture des cheveux : il ne s'agit donc pas d'une coiffure.
 
 **Le cas n'était sans doute pas théorique.** Corinthe a été refondée comme colonie romaine en 44 av. J.-C. et suivait les usages romains. Or les Romains de rang priaient et sacrifiaient la tête couverte, *capite velato*.
 
@@ -64,25 +64,25 @@ Le monde romain raisonnait déjà de cette manière. Plutarque consacre une de s
 
 Une remarque, valable pour tout le passage. Le tissu n'a rien de mauvais en lui-même. Dans la règle que Paul transmet, il marque la place de la femme, et la tête découverte marque celle de l'homme. Un homme couvert prend le signe de l'autre place. C'est le message envoyé par son geste qui pose problème, pas la matière du tissu.
 
-**« Déshonore son chef »** joue sur les deux sens mis en place au v. 3 : sa propre tête, et le Christ. À l'époque, la conduite d'une personne rejaillissait sur l'honneur de celui dont elle dépendait.
+**« Déshonore sa tête »** joue sur les deux sens mis en place au v. 3 : sa propre tête, et le Christ. Ici, la traduction laisse le jeu visible. À l'époque, la conduite d'une personne rejaillissait sur l'honneur de celui dont elle dépendait.
 
 ### v. 5
 
-> « Toute femme, au contraire, qui prie ou qui prophétise, la tête non voilée, déshonore son chef : c'est comme si elle était rasée. »
+> « et toute femme qui prie ou qui prophétise, la tête découverte, déshonore sa tête, car c'est la même chose qu'une femme qui serait rasée. »
 
 **Ce que Paul tient pour acquis.** Il admet sans la moindre discussion que des femmes prient et prophétisent à voix haute. Il règle une tenue, pas une autorisation.
 
-Rien dans le verset ne place la scène dans l'assemblée au complet. Et on trouve ailleurs des femmes qui prophétisent hors de ce cadre : Anne au temple (Lc 2.36-38), les quatre filles de Philippe (Ac 21.9), la promesse de Joël citée à la Pentecôte (Ac 2.17-18).
+Rien dans le verset ne place la scène dans la réunion de toute l'assemblée. Et on trouve ailleurs des femmes qui prophétisent hors de ce cadre : Anne au temple (Lc 2.36-38), les quatre filles de Philippe (Ac 21.9), la promesse de Joël citée à la Pentecôte (Ac 2.17-18).
 
 **Dans quel cadre ?** La question se pose, parce que le verset autorise ici ce que 14.34-35 restreint dans l'assemblée. Trois indices suggèrent que les v. 2-16 visent la prière et la prophétie de la vie ordinaire (la famille, les petits groupes, l'hospitalité) et non la réunion publique.
 
-D'abord le vocabulaire. Le verbe qui veut dire « se réunir en assemblée » n'apparaît qu'à partir du v. 17. Il revient ensuite sans arrêt (11.17, 18, 20, 33, 34 ; 14.23, 26), avec les expressions « en Église » et « au même endroit ». Aucune de ces formules ne figure dans notre passage.
+D'abord le vocabulaire. Le verbe traduit par « se réunir » n'apparaît qu'à partir du v. 17. Il revient ensuite sans arrêt (11.17, 18, 20, 33, 34 ; 14.23, 26), accompagné des précisions « en assemblée » (11.18) et « ensemble » (11.20 ; 14.23). Aucune de ces formules ne figure dans notre passage.
 
-Ensuite la rupture du v. 17. Paul avait ouvert par un éloge (v. 2). Il ouvre la section suivante par l'inverse exact : « ce que je ne loue point ».
+Ensuite la rupture du v. 17. Paul avait ouvert par un éloge (v. 2). Il ouvre la section suivante par l'inverse exact : « je ne vous loue pas ».
 
-Enfin la précision du v. 18, « lorsque vous vous réunissez en assemblée ». Elle introduit ce cadre comme une donnée nouvelle. Inutile de la poser si elle valait déjà pour ce qui précède.
+Enfin la précision du v. 18, « quand vous vous réunissez en assemblée ». Elle introduit ce cadre comme une donnée nouvelle. Inutile de la poser si elle valait déjà pour ce qui précède.
 
-Le lieu ne donne aucun critère. Les Églises se réunissaient dans des maisons (Rm 16.5 ; 1 Co 16.19 ; Col 4.15 ; Phm 2), et la même pièce pouvait accueillir un repas de famille le matin et l'assemblée entière le soir. Ce qui fait la différence, c'est le caractère officiel de la rencontre : une réunion est publique quand l'Église est convoquée comme Église.
+Le lieu ne donne aucun critère. Les assemblées se réunissaient dans des maisons (Rm 16.5 ; 1 Co 16.19 ; Col 4.15 ; Phm 2), et la même pièce pouvait accueillir un repas de famille le matin et la communauté entière le soir. Ce qui fait la différence, c'est le caractère officiel de la rencontre : une réunion est publique quand l'assemblée est convoquée comme assemblée.
 
 Cette lecture reste minoritaire. Elle a ses défenseurs, notamment Harold Holmyard, et les lectures rivales sont présentées à la fin du document. Elle ne change rien à l'explication des versets qui suivent : l'argument de Paul porte sur ce qui doit se voir au moment de la prière, quel que soit le cadre retenu.
 
@@ -98,11 +98,11 @@ On voit ici pourquoi le même objet produit l'effet inverse selon la personne qu
 
 ### v. 6
 
-> « Car si une femme n'est pas voilée, qu'elle se coupe aussi les cheveux. Or, s'il est honteux pour une femme d'avoir les cheveux coupés ou d'être rasée, qu'elle se voile. »
+> « Car si la femme n'est pas couverte, qu'on lui coupe aussi les cheveux. Mais s'il est déshonnête pour une femme d'avoir les cheveux coupés ou d'être rasée, qu'elle soit couverte. »
 
 **Un raisonnement par l'absurde.** Renoncer au voile, c'est renoncer à la marque de ce qui convient à une femme. Autant aller au bout de la logique et couper les cheveux. Personne à Corinthe ne l'aurait accepté, et la conclusion s'impose d'elle-même.
 
-**Ici, le voile et les cheveux sont deux choses différentes.** Le verset les met côte à côte et les oppose. Si on identifie le voile aux cheveux, en s'appuyant sur le v. 15, la phrase devient incompréhensible : « si elle n'a pas de cheveux, qu'elle coupe ses cheveux ». La couverture est donc bien un tissu ajouté.
+**Ici, le voile et les cheveux sont deux choses différentes.** Le verset les met côte à côte et les oppose. Si on identifie le voile aux cheveux, en s'appuyant sur le v. 15, la phrase devient incompréhensible : « si elle n'a pas de cheveux, qu'on lui coupe les cheveux ». La couverture est donc bien un tissu ajouté.
 
 **Pourquoi ce signe au moment de la prière et de la prophétie ?** Deux éléments de réponse.
 
@@ -114,7 +114,7 @@ Bruce Winter a proposé de rattacher ce comportement à la « femme nouvelle »,
 
 ### v. 7
 
-> « L'homme ne doit pas se couvrir la tête, puisqu'il est l'image et la gloire de Dieu, tandis que la femme est la gloire de l'homme. »
+> « Car l'homme, étant l'image et la gloire de Dieu, ne doit pas se couvrir la tête ; mais la femme est la gloire de l'homme. »
 
 **Ce que Paul ne dit pas.** Il n'écrit pas que la femme est l'image de l'homme. Le déséquilibre de la formule est voulu. Genèse 1.27 place l'homme et la femme ensemble sous l'image de Dieu, et Paul n'y touche pas. Il change de registre et parle de gloire.
 
@@ -134,7 +134,7 @@ Le vocabulaire biblique va dans le même sens : « Une femme vertueuse est la co
 
 ### v. 8-9
 
-> « En effet, l'homme n'a pas été tiré de la femme, mais la femme a été tirée de l'homme ; et l'homme n'a pas été créé à cause de la femme, mais la femme a été créée à cause de l'homme. »
+> « Car l'homme ne procède pas de la femme, mais la femme de l'homme ; car aussi l'homme n'a pas été créé à cause de la femme, mais la femme à cause de l'homme. »
 
 Paul remonte à Genèse 2 et retient deux données du récit : l'origine (Gn 2.21-22) et la vocation (Gn 2.18). « À cause de » traduit une tournure qui veut dire « en vue de lui, pour son bien ».
 
@@ -146,9 +146,9 @@ Le point est décisif pour la suite. Ce que Paul invoque ici, ce n'est pas un us
 
 ### v. 10
 
-> « C'est pourquoi la femme, à cause des anges, doit avoir sur la tête une marque de l'autorité dont elle dépend. »
+> « C'est pourquoi la femme, à cause des anges, doit avoir sur la tête [une marque de l']autorité [à laquelle elle est soumise]. »
 
-**Ce que porte le grec.** La phrase dit littéralement que la femme doit « avoir autorité sur la tête ». Les mots « marque de » et « dont elle dépend » sont des ajouts de Segond, et beaucoup de versions font de même. Deux lectures sont défendues.
+**Ce que porte le grec.** La phrase dit littéralement que la femme doit « avoir autorité sur la tête ». Darby met entre crochets « une marque de l' » et « à laquelle elle est soumise » : ces mots ne sont pas dans le texte grec. Beaucoup de versions font le même ajout sans le signaler. Deux lectures sont défendues.
 
 La première est active. La femme exerce une maîtrise sur sa propre tête, et le voile est le signe qui l'habilite à prier et à prophétiser. Morna Hooker a fait remarquer que la tournure « avoir autorité sur » désigne partout ailleurs une autorité exercée par le sujet, jamais une autorité subie.
 
@@ -167,59 +167,59 @@ Une précision utile. Pour une femme mariée, le mari est le référent personne
 3. Des anges présents au culte, dont la sainteté exclut tout désordre. Joseph Fitzmyer a rapproché ce verset des textes de Qumrân qui écartent de l'assemblée les personnes atteintes d'une infirmité, à cause de la présence angélique (1QSa 2.3-9 ; 1QM 7.4-6).
 4. Des messagers humains. Lecture rare et peu soutenue.
 
-La première paraît la meilleure. Elle s'appuie sur l'usage de Paul lui-même. Elle s'accorde avec un passage entièrement construit sur l'ordre de la création. Et elle ne suppose pas le cadre de l'assemblée au complet, que la troisième exigerait.
+La première paraît la meilleure. Elle s'appuie sur l'usage de Paul lui-même. Elle s'accorde avec un passage entièrement construit sur l'ordre de la création. Et elle ne suppose pas le cadre de la réunion de toute l'assemblée, que la troisième exigerait.
 
 Paul ne développe pas son allusion, et il serait imprudent d'en dire plus. Ce que la mention ajoute est clair : elle souligne que l'obéissance est une chose sérieuse. Elle ne donne pas elle-même son sens au tissu.
 
 ### v. 11-12
 
-> « Toutefois, dans le Seigneur, la femme n'est point sans l'homme, ni l'homme sans la femme. Car, de même que la femme a été tirée de l'homme, de même l'homme existe par la femme, et tout vient de Dieu. »
+> « Toutefois, ni la femme n'est sans l'homme, ni l'homme sans la femme, dans le Seigneur ; car comme la femme procède de l'homme, ainsi aussi l'homme est par la femme ; mais toutes choses procèdent de Dieu. »
 
 Le « toutefois » traduit une particule qui coupe et qui corrige. Paul ferme lui-même la porte que son argument venait d'entrouvrir. Il ne retire rien de ce qu'il a écrit, mais il interdit d'en tirer une indépendance ou une supériorité masculine.
 
 Le v. 12 renverse la perspective du v. 8. Le premier homme est venu avant la femme. Depuis, chaque homme naît d'une femme. La dépendance joue dans les deux sens, et l'origine d'Ève ne peut donc pas servir de motif d'orgueil.
 
-La fin du verset déplace le fondement une dernière fois : « tout vient de Dieu ». L'origine dernière n'appartient ni à l'un ni à l'autre.
+La fin du verset déplace le fondement une dernière fois : « toutes choses procèdent de Dieu ». L'origine dernière n'appartient ni à l'un ni à l'autre.
 
 « Dans le Seigneur » place cette réciprocité du côté de la rédemption. La distinction posée à la création demeure ; toute prétention bâtie dessus tombe. Au passage, Paul ne dit pas que l'homme et la femme seraient « tête » l'un de l'autre. Il décrit une dépendance mutuelle, pas une symétrie des places.
 
 ### v. 13
 
-> « Jugez-en vous-mêmes : est-il convenable qu'une femme prie Dieu sans être voilée ? »
+> « Jugez-en en vous-mêmes : est-il convenable qu'une femme prie Dieu sans être couverte ? »
 
 Paul laisse de côté l'argument d'autorité et fait appel au jugement de ses lecteurs. Le verbe « juger » leur confie la conclusion. Un apôtre qui sait commander quand il le veut (7.10 ; 14.37) choisit ici de ne pas le faire. La question est rhétorique, et il attend un « non ». Mais la forme compte.
 
 Le critère qu'il invoque, c'est ce qui convient, c'est-à-dire ce qui va de soi pour un groupe donné. Un tel critère suppose un sens partagé, et un sens partagé se forme dans une culture.
 
-Deux détails encore. Paul écrit « prie Dieu », sans préciser le cadre : la scène évoquée peut rester très simple. Et le verbe décrit une prière qu'on entend et qu'on voit, ce qui correspond à une pratique communautaire ordinaire plutôt qu'avec la prière intérieure ou solitaire.
+Deux détails encore. Paul écrit « prie Dieu », sans préciser le cadre : la scène évoquée peut rester très simple. Et le verbe décrit une prière qu'on entend et qu'on voit, ce qui correspond à une pratique communautaire ordinaire plutôt qu'à la prière intérieure ou solitaire.
 
 ### v. 14-15
 
-> « La nature elle-même ne vous enseigne-t-elle pas que c'est une honte pour l'homme de porter de longs cheveux, mais que c'est une gloire pour la femme d'en porter, parce que la chevelure lui a été donnée comme voile ? »
+> « La nature même ne vous enseigne-t-elle pas que, si un homme a une longue chevelure, c'est un déshonneur pour lui ? Mais si une femme a une longue chevelure, c'est une gloire pour elle, parce que la chevelure lui est donnée en guise de voile. »
 
 **Ce que veut dire « nature ».** Le mot ne renvoie pas ici à la pure biologie, puisque les cheveux poussent chez tout le monde. Il désigne la différence entre les sexes telle qu'elle appartient à l'ordre du monde, et telle qu'un groupe la perçoit et la confirme par ses usages.
 
-Les deux aspects comptent. La différence est réelle, ce n'est pas une pure convention. Mais sa forme visible varie. Les cheveux longs chez un homme n'ont pas toujours passé pour honteux dans le monde biblique : le vœu de naziréat les imposait (Nb 6.5), Absalom en tirait fierté (2 S 14.26), et les Spartiates les portaient. Paul ne fixe d'ailleurs aucune longueur. Son point porte sur la différence : une apparence reconnue comme féminine déshonore l'homme qui l'adopte comme telle. L'ordre entre les sexes fournit le fondement ; l'usage social le rend lisible.
+Les deux aspects comptent. La différence est réelle, ce n'est pas une pure convention. Mais sa forme visible varie. Les cheveux longs chez un homme n'ont pas toujours été tenus pour un déshonneur dans le monde biblique : le vœu de naziréat les imposait (Nb 6.5), Absalom en tirait fierté (2 S 14.26), et les Spartiates les portaient. Paul ne fixe d'ailleurs aucune longueur. Son point porte sur la différence : une apparence reconnue comme féminine déshonore l'homme qui l'adopte comme telle. L'ordre entre les sexes fournit le fondement ; l'usage social le rend lisible.
 
-**« Comme voile ».** Le grec porte une formule qui veut dire « à la place d'un vêtement » ou « en correspondance avec un vêtement ». Deux lectures s'opposent.
+**« En guise de voile ».** Le grec porte une formule qui veut dire « à la place d'un vêtement » ou « en correspondance avec un vêtement ». Darby traduit « en guise de voile », ce qui va dans le premier sens. Deux lectures s'opposent.
 
 La première fait des cheveux le voile demandé, ce qui rendrait tout tissu inutile. La seconde y voit une comparaison : la nature a donné une couverture à la femme, ce qui rend le voile de tissu conforme à l'ordre des choses.
 
-La seconde paraît la bonne, pour la raison déjà vue au v. 6. Le passage distingue les deux termes, et les confondre rend ce verset absurde. La préposition employée peut très bien exprimer une correspondance. Paul va donc du naturel vers le conventionnel : les cheveux suggèrent déjà le geste qu'il recommande.
+La seconde paraît la bonne, malgré le choix de la traduction, pour la raison déjà vue au v. 6. Le passage distingue les deux termes, et les confondre rend ce verset absurde. La préposition employée peut très bien exprimer une correspondance. Paul va donc du naturel vers le conventionnel : les cheveux suggèrent déjà le geste qu'il recommande.
 
 **Un détail à noter.** Paul appelle les cheveux de la femme « une gloire » pour elle, alors que le v. 7 faisait de la femme la gloire de l'homme. Les deux tiennent ensemble : ce qui fait sa beauté propre fait aussi l'honneur de celui dont elle vient.
 
 ### v. 16
 
-> « Si quelqu'un se plaît à contester, nous n'avons pas cette habitude, non plus que les Églises de Dieu. »
+> « Mais si quelqu'un paraît vouloir contester, nous, nous n'avons pas une telle coutume, ni les assemblées de Dieu. »
 
-**« Cette habitude ».** Deux référents sont possibles : l'esprit de dispute, ou le refus de la pratique exposée. La syntaxe impose la première lecture, parce que le pronom renvoie à ce qui précède immédiatement. Paul refuse d'alimenter la polémique. De toute façon, la phrase ne peut pas vouloir dire que les Églises ignoraient le couvre-chef : cela contredirait tout ce qui précède.
+**« Une telle coutume ».** Deux référents sont possibles : l'esprit de dispute, ou le refus de la pratique exposée. La syntaxe impose la première lecture, parce que le démonstratif renvoie à ce qui précède immédiatement. Paul refuse d'alimenter la polémique. De toute façon, la phrase ne peut pas vouloir dire que les assemblées ignoraient le couvre-chef : cela contredirait tout ce qui précède.
 
-**Sur quoi Paul termine.** Le mot traduit par « habitude » désigne un usage, une coutume. Paul finit en renvoyant à la pratique commune des Églises, ce qui montre que la règle n'était pas inventée pour Corinthe.
+**Sur quoi Paul termine.** Le mot traduit par « coutume » désigne un usage reçu. Paul finit en renvoyant à la pratique commune des assemblées, ce qui montre que la règle n'était pas inventée pour Corinthe.
 
 Ce choix mérite attention. Ailleurs dans la même lettre, quand il veut donner le maximum de poids à une consigne, Paul invoque le Seigneur lui-même (7.10 ; 11.23) ou parle de commandement (14.37). Ici, rien de tel : le dernier mot revient à un usage partagé. Le verset atteste donc solidement l'étendue de la pratique au premier siècle. Il ne dit pas combien de temps ce même signe matériel devait être gardé.
 
-Dernière remarque : citer les Églises ne place pas les prières des v. 4-5 dans leur réunion publique. Les Églises sont les communautés qui reçoivent la règle et qui la pratiquent, y compris dans leur vie ordinaire.
+Dernière remarque : citer les assemblées ne place pas les prières des v. 4-5 dans leur réunion publique. Les assemblées sont les communautés qui reçoivent la règle et qui la pratiquent, y compris dans leur vie ordinaire.
 
 ---
 
@@ -235,7 +235,7 @@ Paul y arrive par une série d'appuis de poids inégal :
 4. un correctif interne, qui interdit d'en tirer une domination (v. 11-12) ;
 5. le jugement des lecteurs (v. 13) ;
 6. le sentiment de ce qui convient (v. 14-15) ;
-7. la coutume des Églises (v. 16).
+7. la coutume des assemblées (v. 16).
 
 L'ordre compte. Il va du plus stable au plus variable. Le principe repose sur la création ; le signe repose sur la perception et sur l'usage.
 
@@ -253,7 +253,7 @@ L'application est une autre question. Paul impose-t-il l'objet à toutes les cul
 
 **Elle ne fonde aucune supériorité.** Les v. 11-12 font partie de l'enseignement. Ce n'est pas une formule de politesse. Un homme qui tire de ce passage un droit sur les femmes lit contre Paul, qui a pris soin de couper cette route lui-même.
 
-**Les femmes prient et prophétisent.** Le v. 5 le tient pour acquis, dans les cadres visés ici. Une communauté qui ferait taire les femmes en dehors de l'assemblée au complet irait plus loin que le Nouveau Testament.
+**Les femmes prient et prophétisent.** Le v. 5 le tient pour acquis, dans les cadres visés ici. Une communauté qui ferait taire les femmes en dehors de la réunion de toute l'assemblée irait plus loin que le Nouveau Testament.
 
 **Rien ne doit cacher la gloire de Dieu chez celui qui prie.** Chez les hommes, l'application semble d'abord vide : il n'existe plus d'équivalent moderne à la tête couverte des Romains. Elle ne l'est pas. Le principe vise tout ce qu'un homme met en avant de lui-même devant Dieu : sa fonction, sa réputation, sa maîtrise du vocabulaire spirituel. Ces insignes-là existent toujours.
 
@@ -267,7 +267,7 @@ Le voile de tissu est un signe, et un signe tire son sens d'un accord social. Qu
 
 3. **Paul lui-même argumente à partir de la perception.** Le v. 13 demande aux lecteurs de juger de ce qui convient, et les v. 14-15 font appel à un sentiment commun. Ce type de raisonnement suppose un monde de significations partagé. Là où il ne l'est plus, le raisonnement ne porte plus.
 
-4. **Sa conclusion s'appuie sur la coutume, pas sur un commandement.** Le v. 16 invoque l'usage des Églises. Paul disposait d'appuis plus lourds et savait les formuler. Il ne les emploie pas ici.
+4. **Sa conclusion s'appuie sur la coutume, pas sur un commandement.** Le v. 16 invoque l'usage des assemblées. Paul disposait d'appuis plus lourds et savait les formuler. Il ne les emploie pas ici.
 
 On peut ajouter que l'usage antique lui-même n'était pas uniforme. Les portraits de la Corinthe romaine étudiés par Cynthia Thompson montrent les deux pratiques. Un usage qui variait déjà d'une ville et d'un rang à l'autre se prête mal au statut de norme absolue.
 
@@ -277,7 +277,7 @@ L'objection est sérieuse. Des Églises entières la retiennent, et le voile a d
 
 ### En pratique
 
-**Où la règle s'applique-t-elle ?** Dans le cadre retenu ici, elle vise les prières et les prophéties dites à voix haute dans la vie communautaire ordinaire : une prière en famille, une rencontre entre quelques croyants, un groupe qui ne se réunit pas comme assemblée officielle. La réunion publique relève du chapitre 14. Elle peut se tenir dans une maison sans cesser d'être publique : ce qui compte, c'est que l'Église y soit convoquée comme Église. La règle ne s'étend pas non plus automatiquement à la prière intérieure ou strictement solitaire.
+**Où la règle s'applique-t-elle ?** Dans le cadre retenu ici, elle vise les prières et les prophéties dites à voix haute dans la vie communautaire ordinaire : une prière en famille, une rencontre entre quelques croyants, un groupe qui ne se réunit pas comme assemblée officielle. La réunion publique relève du chapitre 14. Elle peut se tenir dans une maison sans cesser d'être publique : ce qui compte, c'est que l'assemblée y soit convoquée comme assemblée. La règle ne s'étend pas non plus automatiquement à la prière intérieure ou strictement solitaire.
 
 **Un signe ne fonctionne que s'il signifie quelque chose.** Dans une société où la tête couverte n'évoque plus l'ordre créé, le voile ne transmet plus le message que Paul lui confiait. Il en transmet souvent un autre : appartenance à un groupe, protestation contre l'époque, parfois soumission subie. Garder la forme après la perte du sens revient à manquer l'intention du texte. Le critère n'est donc ni le ressenti de chacun, ni la simple présence de voiles dans la société environnante, mais le sens qu'une communauté chrétienne reconnaît vraiment au geste.
 

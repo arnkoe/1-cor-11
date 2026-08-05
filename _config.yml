@@ -4,5 +4,8 @@ lang: fr
 locale: fr_FR
 theme: minima
 
+url: "https://arnkoe.github.io"
+baseurl: "/1-cor-11"
+
 exclude:
   - Sources/

@@ -20,7 +20,9 @@ On cherche d'abord ce que les premiers lecteurs de Paul pouvaient comprendre. La
 
 > « Je vous loue de ce qu'en toutes choses vous vous souvenez de moi et de ce que vous gardez les instructions comme je vous les ai données. »
 
-Le mot traduit par « instructions » veut dire « traditions ». C'est le terme technique de la transmission. Le verbe de la même famille revient en 11.23 et 15.3, pour la Cène et pour le résumé de l'Évangile. Il désigne un contenu reçu, gardé et retransmis. Pas une simple habitude locale.
+Le mot traduit par « instructions » veut dire « traditions ». C'est le terme technique de la transmission. Il désigne un contenu reçu, gardé et retransmis. Pas une simple habitude locale.
+
+La fin du verset va dans le même sens. « Comme je vous les ai données » traduit un verbe qui veut plus littéralement dire « transmises ». La note de l'édition renvoie au v. 23, où Paul emploie le même verbe pour la Cène. Il s'en sert aussi en 15.3, pour le résumé de l'Évangile.
 
 L'éloge est sincère, mais il sert d'entrée en matière. Le « pourtant » du v. 3 annonce une correction : les Corinthiens tiennent bien la tradition, un point demande une mise au point.
 
@@ -28,7 +30,7 @@ L'éloge est sincère, mais il sert d'entrée en matière. Le « pourtant » du 
 
 > « Je veux pourtant que vous le sachiez : le chef de tout homme, c'est le Christ ; le chef de la femme, c'est l'homme ; le chef du Christ, c'est Dieu. »
 
-**Un mot sur la traduction.** Le verset porte trois fois « chef ». Le grec porte le mot « tête ». Le même mot revient aux v. 4-5 et 10, cette fois pour la tête au sens physique, et la traduction écrit alors « tête ». Paul joue sur les deux sens du début à la fin du passage. Le lecteur français voit donc deux mots là où l'apôtre n'en emploie qu'un.
+**Un mot sur la traduction.** Le verset porte trois fois « chef ». Le grec porte le mot « tête ». Le même mot revient aux v. 4-5 et 10, cette fois pour la tête au sens physique, et la traduction écrit alors « tête ». L'édition le signale en note : « chef, litt. : tête, dans tout le v. 3 ; le même mot désigne la tête aux v. suivants. » Paul joue sur les deux sens du début à la fin du passage. Le lecteur français voit donc deux mots là où l'apôtre n'en emploie qu'un.
 
 **Que veut dire ce mot ?** Deux lectures s'affrontent : « autorité sur, celui qui est à la tête de » et « source, origine ». Le grec de l'époque connaît les deux emplois. Deux affirmations sont donc trop rapides : dire que le mot veut toujours dire « source », et refuser toute idée d'origine. Un mot à plusieurs sens ne les porte pas tous à chaque fois. C'est le contexte qui tranche.
 
@@ -44,13 +46,15 @@ Sur le plan du vocabulaire, Joseph Fitzmyer a relevé des emplois de ce mot au s
 
 Le verset ne donne pas non plus à chaque homme une autorité personnelle sur chaque femme. Paul ne nomme aucun homme, aucun domaine, aucune façon d'exercer une telle autorité. Dans ce passage, la conséquence concrète tient en un point : les hommes et les femmes portent des signes différents quand ils prient ou prophétisent.
 
-**Un détail de vocabulaire.** Le mot traduit par « homme » veut aussi dire « mari ». Celui traduit par « femme » veut aussi dire « épouse ». Le grec ne tranche pas. L'argument tiré de la création (v. 8-9) et les formules générales des v. 4-5 et 14-15 supposent une portée large. Le mariage reste l'application personnelle la plus directe.
+**Un détail de vocabulaire.** Le mot traduit par « homme » veut aussi dire « mari ». Celui traduit par « femme » veut aussi dire « épouse ». Le grec ne tranche pas. L'argument tiré de la création (v. 8-9) et les formules générales des v. 4-5 et 14-15 supposent une portée large. La note de l'édition va dans ce sens : elle glose « l'homme en contraste avec la femme, jusqu'au v. 15 inclus ». Le mariage reste l'application personnelle la plus directe.
 
 ### v. 4
 
 > « Tout homme qui prie ou qui prophétise en ayant [quelque chose] sur la tête déshonore sa tête ; »
 
 **De quoi parle-t-on, concrètement ?** Le grec dit seulement « ayant sur la tête », sans nommer l'objet. Les crochets signalent cet ajout. Il s'agit très probablement d'un tissu ou d'un pan de vêtement ramené sur la tête. Le v. 6 distinguera cette couverture des cheveux : il ne s'agit donc pas d'une coiffure.
+
+Un mot sur le vocabulaire employé ici. La traduction dit « couvert » et « couverte » ; le mot « voile » n'apparaît qu'au v. 15, et pour un autre terme grec. Ce commentaire écrit « voile » comme raccourci pour cette couverture.
 
 **Le cas n'était sans doute pas théorique.** Corinthe a été refondée comme colonie romaine en 44 av. J.-C. et suivait les usages romains. Or les Romains de rang priaient et sacrifiaient la tête couverte, *capite velato*.
 
@@ -76,11 +80,11 @@ Rien dans le verset ne place la scène dans la réunion de toute l'assemblée. E
 
 **Dans quel cadre ?** La question se pose, parce que le verset autorise ici ce que 14.34-35 restreint dans l'assemblée. Trois indices suggèrent que les v. 2-16 visent la prière et la prophétie de la vie ordinaire (la famille, les petits groupes, l'hospitalité) et non la réunion publique.
 
-D'abord le vocabulaire. Le verbe traduit par « se réunir » n'apparaît qu'à partir du v. 17. Il revient ensuite sans arrêt (11.17, 18, 20, 33, 34 ; 14.23, 26), et le texte précise chaque fois qu'il s'agit de l'assemblée réunie au même lieu. Aucune de ces formules ne figure dans notre passage.
+D'abord le vocabulaire. Le verbe traduit par « se réunir » n'apparaît qu'à partir du v. 17. Il revient ensuite sans arrêt (11.17, 18, 20, 33, 34 ; 14.23, 26), avec les précisions « en assemblée » (11.18) et « en un même lieu » (11.20). Aucune de ces formules ne figure dans notre passage.
 
-Ensuite la rupture du v. 17. Paul avait ouvert par un éloge (v. 2). Il ouvre la section suivante par l'inverse exact : cette fois, il ne loue pas.
+Ensuite la rupture du v. 17. Paul avait ouvert par un éloge (v. 2). Il ouvre la section suivante par l'inverse exact : « je ne [vous] loue pas ».
 
-Enfin la précision du v. 18, qui situe la scène au moment où les Corinthiens se réunissent en assemblée. Elle introduit ce cadre comme une donnée nouvelle. Inutile de la poser si elle valait déjà pour ce qui précède.
+Enfin la précision du v. 18, « quand vous vous réunissez en assemblée ». Elle introduit ce cadre comme une donnée nouvelle. Inutile de la poser si elle valait déjà pour ce qui précède.
 
 Le lieu ne donne aucun critère. Les assemblées se réunissaient dans des maisons (Rm 16.5 ; 1 Co 16.19 ; Col 4.15 ; Phm 2), et la même pièce pouvait accueillir un repas de famille le matin et la communauté entière le soir. Ce qui fait la différence, c'est le caractère officiel de la rencontre : une réunion est publique quand l'assemblée est convoquée comme assemblée.
 
@@ -106,7 +110,7 @@ On voit ici pourquoi le même objet produit l'effet inverse selon la personne qu
 
 **Pourquoi ce signe au moment de la prière et de la prophétie ?** Deux éléments de réponse.
 
-Le premier tient à ce que sont ces deux actes. Prier, c'est parler à Dieu. Prophétiser, c'est porter sa parole aux autres. Dans les deux cas, la personne se tient devant Dieu en pleine conscience, et elle représente quelque chose. Paul s'intéresse à ce qui se voit à ce moment-là, et son argument des v. 7-10 porte entièrement sur la gloire et sur ce qu'il convient de montrer devant Dieu. En dehors de ces actes, cette représentation n'est pas en jeu, et la question ne se pose plus dans les mêmes termes. Le voile ne sert donc pas à afficher en permanence qu'on est une femme. Il honore un ordre au moment où l'on se présente devant celui qui l'a établi.
+Le premier tient à ce que sont ces deux actes. Prier, c'est parler à Dieu. Prophétiser, c'est porter sa parole aux autres ; l'édition glose « présenter les vérités divines ». Dans les deux cas, la personne se tient devant Dieu en pleine conscience, et elle représente quelque chose. Paul s'intéresse à ce qui se voit à ce moment-là, et son argument des v. 7-10 porte entièrement sur la gloire et sur ce qu'il convient de montrer devant Dieu. En dehors de ces actes, cette représentation n'est pas en jeu, et la question ne se pose plus dans les mêmes termes. Le voile ne sert donc pas à afficher en permanence qu'on est une femme. Il honore un ordre au moment où l'on se présente devant celui qui l'a établi.
 
 Le second tient à la situation concrète. Une femme d'un certain rang portait déjà un couvre-chef en public. Paul ne crée pas une obligation nouvelle valable toute la journée. Il traite le moment précis où certaines Corinthiennes enlevaient le leur.
 
@@ -201,7 +205,7 @@ Deux détails encore. Paul écrit « prie Dieu », sans préciser le cadre : la 
 
 Les deux aspects comptent. La différence est réelle, ce n'est pas une pure convention. Mais sa forme visible varie. Les cheveux longs chez un homme n'ont pas toujours été tenus pour un déshonneur dans le monde biblique : le vœu de naziréat les imposait (Nb 6.5), Absalom en tirait fierté (2 S 14.26), et les Spartiates les portaient. Paul ne fixe d'ailleurs aucune longueur. Son point porte sur la différence : une apparence reconnue comme féminine déshonore l'homme qui l'adopte comme telle. L'ordre entre les sexes fournit le fondement ; l'usage social le rend lisible.
 
-**« En guise de voile ».** Le grec porte une formule qui veut dire « à la place d'un vêtement » ou « en correspondance avec un vêtement ». La traduction porte « en guise de voile », ce qui va dans le premier sens. Deux lectures s'opposent.
+**« En guise de voile ».** Le grec porte une formule qui veut dire « à la place d'un vêtement » ou « en correspondance avec un vêtement ». Le mot rendu par « voile » n'est pas celui des versets précédents : l'édition le glose « ici, ce qui enveloppe, ce qui revêt ». La traduction porte « en guise de voile », ce qui va dans le premier sens. Deux lectures s'opposent.
 
 La première fait des cheveux le voile demandé, ce qui rendrait tout tissu inutile. La seconde y voit une comparaison : la nature a donné une couverture à la femme, ce qui rend le voile de tissu conforme à l'ordre des choses.
 

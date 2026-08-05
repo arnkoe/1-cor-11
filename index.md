@@ -42,11 +42,18 @@ L'éloge est sincère, mais il sert d'entrée en matière. Le « pourtant » du 
 
 **Un mot sur la traduction.** Les trois versions écrivent « chef ». Le grec porte le mot « tête ». Le même mot revient aux v. 4-5 et 10, cette fois pour la tête au sens physique. La Darby révisée le signale en note : « chef, litt. : tête, dans tout le v. 3 ; le même mot désigne la tête aux v. suivants. » Paul joue sur les deux sens du début à la fin du passage. Le lecteur français voit donc deux mots là où l'apôtre n'en emploie qu'un.
 
-**Que veut dire ce mot ?** Deux lectures s'affrontent : « autorité sur, celui qui est à la tête de » et « source, origine ». Le grec de l'époque connaît les deux emplois. Deux affirmations sont donc trop rapides : dire que le mot veut toujours dire « source », et refuser toute idée d'origine. Un mot à plusieurs sens ne les porte pas tous à chaque fois. C'est le contexte qui tranche.
+**Que veut dire « tête » ici ?** Deux sens sont proposés, et le grec de l'époque connaît les deux :
 
-Ici, le contexte penche du côté de la position et de l'honneur. Les v. 4-10 parlent tous de l'honneur dû à une tête, et du signe qui reconnaît un ordre établi. L'idée d'origine n'est pas absente pour autant. Les v. 8 et 12 diront que la femme vient de l'homme, et que l'homme vient par la femme. Elle reste en arrière-plan, sans former le sens principal. Une troisième proposition, « ce qui est en avant, ce qui ressort », a l'avantage de couvrir les deux idées à la fois.
+- « celui qui est à la tête de », donc l'autorité ;
+- « la source », donc l'origine.
 
-Sur le plan du vocabulaire, Joseph Fitzmyer a relevé des emplois de ce mot au sens de chef ou de personne en autorité dans la Septante, chez Philon et chez Josèphe. Jerome Murphy-O'Connor avait d'abord soutenu que le mot ne pouvait dire que « source » à l'époque de Paul ; il est ensuite revenu sur cette affirmation. Ces travaux montrent que le sens d'autorité est possible. Ils ne rendent pas le sens d'origine impossible ailleurs.
+Un mot à plusieurs sens ne les porte pas tous à chaque fois. C'est le contexte qui tranche.
+
+Ici, le contexte va du côté de la position et de l'honneur. Les v. 4-10 ne parlent que de cela : l'honneur dû à une tête, et le signe qui reconnaît un ordre établi. L'idée d'origine n'est pas absente pour autant. Les v. 8 et 12 rappellent que la femme vient de l'homme, et l'homme par la femme. Mais elle reste en arrière-plan.
+
+Deux travaux sur le vocabulaire. Joseph Fitzmyer a relevé le sens de « chef » dans la Septante, chez Philon et chez Josèphe. Jerome Murphy-O'Connor soutenait que le mot ne pouvait dire que « source » à l'époque de Paul ; il est ensuite revenu sur cette affirmation. Le sens d'autorité est donc bien attesté. Cela ne rend pas le sens d'origine impossible ailleurs.
+
+Andrew Perriman propose un troisième sens : « ce qui est en avant, ce qui ressort ». Il réunit les deux idées.
 
 **L'ordre de la liste.** Christ et homme, puis homme et femme, puis Dieu et Christ. Une hiérarchie descendante donnerait plutôt Dieu, Christ, homme, femme. Paul met trois relations côte à côte sans les enchaîner. Il éclaire celle du milieu par les deux autres.
 
@@ -70,17 +77,15 @@ Le verset ne donne pas non plus à chaque homme une autorité personnelle sur ch
 
 Un mot sur le vocabulaire employé ici. Les trois versions disent « couvert » et « couverte ». Le mot « voile » n'apparaît qu'au v. 15, et pour un autre terme grec. Ce commentaire écrit « voile » comme raccourci pour cette couverture.
 
-**Le cas n'était sans doute pas théorique.** Corinthe a été refondée comme colonie romaine en 44 av. J.-C. et suivait les usages romains. Or les Romains de rang priaient et sacrifiaient la tête couverte, *capite velato*.
+**Le cas n'était sans doute pas théorique.** Corinthe a été refondée comme colonie romaine en 44 av. J.-C. et suivait les usages romains. Or les Romains de rang priaient et sacrifiaient la tête couverte, *capite velato*. Richard Oster a réuni les textes et les données archéologiques sur cette pratique. David Gill a montré qu'elle revient souvent dans le portrait romain, où elle marque la piété et le rang social. La statue d'Auguste dite « de la via Labicana » le montre voilé en grand pontife.
 
-Richard Oster a réuni les textes et les données archéologiques sur cette pratique. David Gill a montré que ce type de représentation revient souvent dans le portrait romain, où il marque à la fois la piété et le rang social. La statue d'Auguste dite « de la via Labicana » le montre ainsi, voilé en grand pontife.
+Des chrétiens de Corinthe reprenaient sans doute ce geste dans leur prière, attirés par son prestige. Mais Paul ne répond pas sur ce terrain. Son argument reste théologique du début à la fin.
 
-Des chrétiens de Corinthe reprenaient sans doute ce geste dans leur prière. Le prestige attaché à cette pose explique son attrait. Mais ce n'est pas l'argument de Paul : le sien reste théologique du début à la fin.
+**Pourquoi ce geste pose problème.** Le v. 7 donne la réponse : l'homme est l'image et la gloire de Dieu. Or un couvre-chef cache. Tête découverte, l'homme laisse voir ce qu'il est appelé à manifester. Le problème n'est pas qu'un voile afficherait un prestige. C'est qu'il cacherait une gloire.
 
-**Pourquoi ce geste pose problème.** La réponse est donnée au v. 7 : l'homme est l'image et la gloire de Dieu. Un couvre-chef cache. La tête découverte laisse voir ce que l'homme est appelé à manifester. Le problème n'est pas qu'un voile afficherait un prestige. C'est qu'il cacherait une gloire.
+Le monde romain raisonnait déjà ainsi. Plutarque demande pourquoi les Romains se couvrent la tête devant les dieux, alors qu'ils se découvrent devant les hommes qu'ils veulent honorer (*Quaest. Rom.* 10). Trois questions plus loin, il rattache la tête découverte à la gloire, parce que la gloire est chose éclatante et visible (*Quaest. Rom.* 13). Dans le rite, se couvrir exprimait un abaissement devant la divinité. Paul parle donc la même langue que son entourage : un voile cache.
 
-Le monde romain raisonnait déjà de cette manière. Plutarque consacre une de ses *Questions romaines* au sujet : pourquoi les Romains se couvrent-ils la tête pour honorer les dieux, alors qu'ils se découvrent devant les hommes qu'ils veulent honorer (*Quaest. Rom.* 10) ? Trois questions plus loin, il relie la tête découverte à la gloire, parce que la gloire est chose éclatante et visible (*Quaest. Rom.* 13). Dans le rite, se couvrir exprimait un abaissement devant la divinité. Paul parle donc la même langue que son entourage : un voile cache.
-
-Une remarque, valable pour tout le passage. Le tissu n'a rien de mauvais en lui-même. Dans la règle que Paul transmet, il marque la place de la femme, et la tête découverte marque celle de l'homme. Un homme couvert prend le signe de l'autre place. C'est le message envoyé par son geste qui pose problème, pas la matière du tissu.
+**Le tissu n'est pas en cause.** La remarque vaut pour tout le passage. Dans la règle que Paul transmet, la couverture marque la place de la femme, et la tête découverte celle de l'homme. Un homme couvert prend le signe de l'autre place. C'est le message envoyé par son geste qui pose problème, pas la matière du tissu.
 
 **« Déshonore sa tête »** joue sur les deux sens mis en place au v. 3 : sa propre tête, et le Christ. La comparaison des versions le montre bien. La Darby révisée garde « sa tête » et laisse les deux sens ouverts. La Segond 21 et le Semeur écrivent « son chef », et tranchent donc pour le sens relationnel.
 
@@ -98,17 +103,15 @@ Une remarque, valable pour tout le passage. Le tissu n'a rien de mauvais en lui-
 
 Rien dans le verset ne place la scène dans la réunion de toute l'assemblée. Et on trouve ailleurs des femmes qui prophétisent hors de ce cadre : Anne au temple (Lc 2.36-38), les quatre filles de Philippe (Ac 21.9), la promesse de Joël citée à la Pentecôte (Ac 2.17-18).
 
-**Dans quel cadre ?** La question se pose, parce que le verset autorise ici ce que 14.34-35 restreint dans l'assemblée. Trois indices suggèrent que les v. 2-16 visent la prière et la prophétie de la vie ordinaire (la famille, les petits groupes, l'hospitalité) et non la réunion publique.
+**Dans quel cadre ?** La question se pose, parce que le verset autorise ici ce que 14.34-35 restreint dans l'assemblée. Trois indices suggèrent que les v. 2-16 visent la prière et la prophétie de la vie ordinaire (la famille, les petits groupes, l'hospitalité), et non la réunion publique.
 
-D'abord le vocabulaire. Le verbe traduit par « se réunir » n'apparaît qu'à partir du v. 17. Il revient ensuite sans arrêt (11.17, 18, 20, 33, 34 ; 14.23, 26), avec les précisions « en assemblée » (11.18) et « en un même lieu » (11.20). Aucune de ces formules ne figure dans notre passage.
+- **Le vocabulaire.** Le verbe traduit par « se réunir » n'apparaît qu'à partir du v. 17. Il revient ensuite sans arrêt (11.17, 18, 20, 33, 34 ; 14.23, 26), avec les précisions « en assemblée » (11.18) et « en un même lieu » (11.20). Aucune de ces formules ne figure dans notre passage.
+- **La rupture du v. 17.** Paul avait ouvert par un éloge (v. 2). Il ouvre la section suivante par l'inverse exact : « je ne [vous] loue pas ».
+- **La précision du v. 18**, « quand vous vous réunissez en assemblée ». Elle pose ce cadre comme une donnée nouvelle. Inutile de le faire s'il valait déjà pour ce qui précède.
 
-Ensuite la rupture du v. 17. Paul avait ouvert par un éloge (v. 2). Il ouvre la section suivante par l'inverse exact : « je ne [vous] loue pas ».
+Le lieu ne donne aucun critère. Les assemblées se réunissaient dans des maisons (Rm 16.5 ; 1 Co 16.19 ; Col 4.15 ; Phm 2). La même pièce pouvait accueillir un repas de famille le matin et la communauté entière le soir. Ce qui fait la différence, c'est le caractère officiel de la rencontre : une réunion est publique quand l'assemblée est convoquée comme assemblée.
 
-Enfin la précision du v. 18, « quand vous vous réunissez en assemblée ». Elle introduit ce cadre comme une donnée nouvelle. Inutile de la poser si elle valait déjà pour ce qui précède.
-
-Le lieu ne donne aucun critère. Les assemblées se réunissaient dans des maisons (Rm 16.5 ; 1 Co 16.19 ; Col 4.15 ; Phm 2), et la même pièce pouvait accueillir un repas de famille le matin et la communauté entière le soir. Ce qui fait la différence, c'est le caractère officiel de la rencontre : une réunion est publique quand l'assemblée est convoquée comme assemblée.
-
-Cette lecture reste minoritaire. Elle a ses défenseurs, notamment Harold Holmyard, et les lectures rivales sont présentées à la fin du document. Elle ne change rien à l'explication des versets qui suivent : l'argument de Paul porte sur ce qui doit se voir au moment de la prière, quel que soit le cadre retenu.
+Cette lecture reste minoritaire. Harold Holmyard la défend, et les lectures rivales sont présentées à la fin du document. Elle ne change rien à l'explication des versets qui suivent : l'argument de Paul porte sur ce qui doit se voir au moment de la prière, quel que soit le cadre retenu.
 
 **Qui est déshonoré ?** Sa propre tête d'abord, comme le montre la comparaison qui suit. Le v. 3 fait aussi entendre une tête au sens relationnel : si on lit le passage en pensant au couple, c'est le mari. La Segond 21 et le Semeur retiennent ce second sens en écrivant « son chef à elle ». Hors du mariage, Paul ne dit pas quel homme serait personnellement déshonoré, et le verset ne permet pas d'affirmer qu'une femme déshonorerait tous les hommes présents. Le point sûr est plus simple : en retirant sa couverture, elle rend sa propre tête honteuse et refuse le signe qui reconnaissait l'ordre du v. 3.
 

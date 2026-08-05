@@ -12,19 +12,21 @@ body {
   line-height: 1.7;
 }
 
-.page-header {
-  margin-bottom: 4rem;
-}
-
 h1 {
-  margin: 0;
+  margin: 0 0 0.75rem;
   font-size: 1.75rem;
   line-height: 1.25;
 }
 
-.lede {
-  margin: 0.75rem 0 0;
+/* Sous-titre : le paragraphe qui suit immediatement le titre. */
+h1 + p {
+  margin-bottom: 3rem;
   color: #666;
+  font-style: normal;
+}
+
+h1 + p em {
+  font-style: normal;
 }
 
 h2 {

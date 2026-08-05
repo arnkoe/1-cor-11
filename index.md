@@ -4,6 +4,10 @@ title: "1 Cor 11:2-16 : un commentaire verset par verset"
 description: "Lecture suivie du passage sur le voile, puis la question de son application aujourd'hui."
 ---
 
+# 1 Cor 11:2-16 : un commentaire verset par verset
+
+*Lecture suivie du passage sur le voile, puis la question de son application aujourd'hui.*
+
 Les citations reprennent la Louis Segond 1910 ; quand le grec porte une nuance que la traduction ne rend pas, elle est signalée au passage. La lecture cherche d'abord ce que les premiers destinataires pouvaient comprendre ; la question de l'application actuelle vient ensuite, dans une section séparée.
 
 ---

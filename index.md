@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "1 Corinthiens 11.2-16 : exégèse et application"
+title: "Exégèse et application"
 description: "Lecture verset par verset du passage sur le voile, et question de son application aujourd'hui."
-lang: fr
 ---
 
 ## Avant de commencer

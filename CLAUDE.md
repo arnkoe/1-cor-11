@@ -70,12 +70,40 @@ Simplifier veut dire simplifier la forme, jamais le fond. On garde tout :
 - les références bibliques et leurs numéros de versets ;
 - les termes grecs en italique, avec leur traduction ;
 - les citations d'auteurs anciens et leurs références précises ;
-- les noms de chercheurs et leurs positions ;
+- les noms de chercheurs et leurs positions, quand on s'appuie sur leurs travaux ;
 - les nuances, les hypothèses concurrentes, les « on ne sait pas » ;
 - la bibliographie, telle quelle.
 
 Si une simplification fait disparaître une nuance, c'est une mauvaise simplification :
 il faut alors faire deux phrases au lieu d'une, pas supprimer la nuance.
+
+## Les affirmations historiques
+
+Le texte parle souvent du monde ancien. Il faut alors séparer deux choses : ce qui est
+attesté, et ce qu'on en déduit.
+
+**Une affirmation historique se prouve.** Si le texte affirme qu'un usage existait,
+il faut plusieurs sources, et de qualité :
+
+- des textes anciens, avec leur référence précise : auteur, œuvre, livre, chapitre ;
+- des objets ou des inscriptions, avec le lieu de la trouvaille ;
+- des travaux de spécialistes, nommés.
+
+Une seule source ne suffit pas. Chaque source reçoit un lien vers un texte consultable.
+Une source qui va dans le sens contraire se cite aussi.
+
+**Une hypothèse se présente comme telle.** Quand on ne sait pas, on le dit, et on
+s'arrête là. Pas de nom de chercheur, pas de lien, pas de bibliographie. Une liste de
+sources sous une hypothèse lui donne l'apparence d'une preuve. Une phrase simple
+suffit : « on a proposé que… », « on ignore pourquoi… ».
+
+**Le piège habituel : l'affirmation en deux temps.** Le premier temps est attesté, le
+second ne l'est pas. « Les Romains faisaient ceci » est un fait. « Donc les chrétiens
+de Corinthe le faisaient » est une déduction. Les sources prouvent le premier temps,
+jamais le second. Il faut couper la phrase en deux et dire lequel est lequel.
+
+**Quand une reconstitution est discutée, donner l'objection.** Une phrase suffit. Le
+lecteur qui ne connaît pas le débat doit au moins savoir qu'il existe.
 
 ## Format
 

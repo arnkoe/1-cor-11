@@ -73,9 +73,19 @@ Le verset ne donne pas non plus à chaque homme une autorité personnelle sur ch
 
 Un mot sur le vocabulaire employé ici. Les trois versions disent « couvert » et « couverte ». Le mot « voile » n'apparaît qu'au v. 15, et pour un autre terme grec. Ce commentaire écrit « voile » comme raccourci pour cette couverture.
 
-**Le cas n'était sans doute pas théorique.** Corinthe avait été [refondée comme colonie romaine par Jules César en 46 av. J.-C.](https://www.livius.org/articles/place/corinth/roman-corinth/) La ville suivait les usages romains. Or le Romain qui présidait un sacrifice ramenait un pan de sa toge sur sa tête. On appelle cette pose *capite velato*. [La statue d'Auguste dite « de la via Labicana » le montre ainsi, en grand pontife](https://en.wikipedia.org/wiki/Via_Labicana_Augustus).
+**Un usage romain bien attesté.** Corinthe avait été [refondée comme colonie romaine par Jules César en 46 av. J.-C.](https://www.livius.org/articles/place/corinth/roman-corinth/) La ville suivait les usages romains. Or le Romain qui priait ou sacrifiait ramenait un pan de sa toge sur sa tête. On appelle cette pose *capite velato*. Sur ce point, la documentation est abondante et personne ne la conteste.
 
-[David Gill a réuni les portraits romains qui reprennent cette pose](https://www.tyndalebulletin.org/article/30525-the-importance-of-roman-portraiture-for-head-coverings-in-1-corinthians-11-2-16.pdf). Il en signale une vingtaine pour le seul Auguste, dont une statue trouvée à Corinthe même, dans la basilique Julienne. Le geste marquait la piété et le rang. On suppose donc que des chrétiens de Corinthe l'imitaient, attirés par son prestige.
+- **Les textes.** [Tite-Live rapporte le rite par lequel le consul Décius s'offre aux dieux : le pontife lui ordonne de prendre la toge prétexte « et, la tête voilée, une main ramenée sous la toge jusqu'au menton », de prononcer la prière](https://remacle.org/bloodwolf/historiens/Tite/livre8.htm) (*Histoire romaine* 8.9). [Virgile fait recommander à Énée, au moment du sacrifice, qu'« un long voile de pourpre, abaissé sur tes yeux, dérobe à tes regards tout visage odieux »](https://remacle.org/bloodwolf/poetes/virgile/eneide3.htm) (*Énéide* 3.405). [Josèphe montre Vespasien qui, avant de prier, « couvrit d'un pan de son manteau sa tête »](https://remacle.org/bloodwolf/historiens/Flajose/guerre7.htm) (*Guerre des Juifs* 7.128). [Preston Massey compte quatorze passages de ce genre chez le seul Tite-Live, tous à propos d'hommes](https://summerstudy.yale.edu/sites/default/files/3masseyveilingmen.pdf).
+- **Le contraste avec le rite grec.** [Macrobe note qu'au temple de Saturne « on sacrifie la tête découverte, selon le rite grec »](https://remacle.org/bloodwolf/erudits/macrobe/saturnales1.htm) (*Saturnales* 1.8.2 et 1.10.22). Le voile est donc une marque romaine, et non une pratique commune à tout le monde méditerranéen.
+- **Les images.** [La statue d'Auguste dite « de la via Labicana » le montre ainsi, en grand pontife](https://en.wikipedia.org/wiki/Via_Labicana_Augustus). [David Gill a réuni les portraits romains qui reprennent cette pose](https://www.tyndalebulletin.org/article/30525-the-importance-of-roman-portraiture-for-head-coverings-in-1-corinthians-11-2-16.pdf) : une vingtaine pour le seul Auguste, dont une statue trouvée à Corinthe même, dans la basilique Julienne, et un fragment de statue de Néron trouvé au même endroit.
+
+**Mais le geste était réservé.** Il appartenait à celui qui présidait le rite, pas à tous les assistants. [Sur la frise de l'Ara Pacis, seuls les prêtres ont la toge relevée sur la tête ; les autres portent une couronne](https://en.wikipedia.org/wiki/Ara_Pacis). Gill le résume ainsi : la tête couverte est « propre à ceux qui prennent une part active » au sacrifice.
+
+**Le passage de Rome à l'Église de Corinthe reste une hypothèse.** Aucun texte, aucun objet ne montre un chrétien de Corinthe la tête couverte. On le déduit de l'interdiction de Paul, et de rien d'autre.
+
+Gill relève lui-même l'objection : le geste romain était celui d'un homme précis dans un rôle précis, alors que Paul écrit « tout homme ». Il propose une réponse. Les quelques membres de l'élite présents dans l'Église, les « puissants » et les « nobles » de 1.26, auraient importé dans le culte un vêtement de prestige. Richard Oster, qui a ouvert cette piste en 1988, refuse au contraire d'y voir une question de rang social. [Preston Massey a repris tout le dossier en 2018](https://summerstudy.yale.edu/sites/default/files/3masseyveilingmen.pdf) : il tient l'usage romain pour acquis, mais conclut seulement qu'« on ne peut écarter la possibilité » qu'il ait joué à Corinthe.
+
+Il faut donc distinguer deux choses. L'usage romain est un fait. Son imitation par des chrétiens de Corinthe est une reconstitution vraisemblable, pas une donnée.
 
 **Pourquoi ce geste pose problème.** Paul ne répond pas sur le terrain du prestige. Sa raison est au v. 7 : l'homme est l'image et la gloire de Dieu. Or un couvre-chef cache. Le problème n'est pas qu'un voile afficherait un prestige. C'est qu'il cacherait une gloire.
 
@@ -137,7 +147,17 @@ Le premier tient à ce que sont ces deux actes. Prier, c'est parler à Dieu. Pro
 
 Le second tient à la situation concrète. Paul ne crée pas une obligation valable toute la journée. Il traite le moment précis où certaines Corinthiennes retiraient leur couverture.
 
-On a proposé de rattacher ce comportement à la « femme nouvelle », un modèle d'affranchissement des codes du mariage qui apparaît dans la société romaine du premier siècle. [Bruce Winter en a réuni les preuves : les textes littéraires, les poètes élégiaques et les lois augustéennes sur le mariage](https://www.tyndalebulletin.org/article/30293-the-new-roman-wife-and-1-timothy-2-9-15-the-search-for-a-_sitz-im-leben_.pdf). Autre explication possible, qui n'exclut pas la première : la conviction que les distinctions étaient abolies en Christ (comparer Ga 3.28), ou l'exaltation liée à l'inspiration prophétique. La lettre ne le dit pas. Ces reconstitutions restent des hypothèses.
+**On ignore pourquoi elles le faisaient.** Plusieurs explications ont été proposées. Aucune n'est démontrée.
+
+La plus connue est celle de la « femme nouvelle » : un modèle d'affranchissement des codes du mariage qui serait apparu dans la société romaine du premier siècle. [Bruce Winter en a réuni le dossier](https://www.tyndalebulletin.org/article/30293-the-new-roman-wife-and-1-timothy-2-9-15-the-search-for-a-_sitz-im-leben_.pdf) : les moralistes, les poètes élégiaques et les lois augustéennes sur le mariage. Cette reconstitution est discutée, pour trois raisons.
+
+- **Les sources ne viennent pas de Corinthe.** Elles décrivent Rome et le milieu sénatorial. Les lois augustéennes sur le mariage datent de 18 av. J.-C. et de l'an 9. La lettre aux Corinthiens est des années 50.
+- **Les sources sont littéraires.** La maîtresse des poètes élégiaques est un personnage de poème. Les satiristes et les moralistes dénoncent un travers ; ils ne décrivent pas une population.
+- **Le portrait ne s'accorde pas avec le texte.** [Kevin Giles le relève dans sa recension](https://www.cbeinternational.org/resource/book-review-roman-wives-roman-widows-appearance-new-women-and/) : Winter réserve la consigne de Paul aux femmes mariées, alors que Paul écrit « toute femme ». [Debra Bucher, examinant le même type de reconstruction chez Winter, juge peu convaincant le lien qu'il établit entre les changements de la société romaine et les réponses de Paul](https://bmcr.brynmawr.edu/2002/2002.06.15/).
+
+D'autres explications ont été avancées, qui n'excluent pas la première : la conviction que les distinctions étaient abolies en Christ (comparer Ga 3.28), ou l'exaltation liée à l'inspiration prophétique.
+
+La lettre ne dit rien sur ce point. Ces reconstitutions restent des hypothèses, et l'argument de Paul ne dépend d'aucune d'elles.
 
 ### v. 7
 

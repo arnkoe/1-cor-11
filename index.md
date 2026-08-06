@@ -1,24 +1,20 @@
 ---
 layout: page
-title: "1 Cor 11:2-16 : un commentaire verset par verset"
-description: "On lit le passage sur le voile verset par verset, puis on regarde ce qu'il demande aujourd'hui."
+title: "Étude de 1 Cor 11:2-16"
+description: "Un commentaire verset par verset, et les conclusions qu'on peut tirer de ce texte pour aujourd'hui."
 ---
 
-# 1 Cor 11:2-16 : un commentaire verset par verset
+# Étude de 1 Cor 11:2-16
 
-*On lit le passage sur le voile verset par verset, puis on regarde ce qu'il demande aujourd'hui.*
-
-Chaque verset est donné dans trois traductions : la [Darby révisée](https://editeurbpc.com/bible/traduction-revisee/1-corinthiens/11), la [Segond 21](https://www.universdelabible.net/lire-la-segond-21-en-ligne/1-corinthiens/11) et la [Bible du Semeur](https://www.bibleserver.com/BDS/1%20Corinthiens11). La première serre le grec de près. La dernière cherche d'abord à se faire comprendre. Les crochets de la Darby révisée signalent les mots ajoutés par le traducteur, absents du grec.
-
-Lire les trois demande un peu de temps, et ce temps est utile. Là où elles divergent, c'est presque toujours qu'une difficulté du grec oblige à choisir. Le commentaire le signale au passage.
-
-On cherche d'abord ce que les premiers lecteurs de Paul pouvaient comprendre. La question de l'application aujourd'hui vient après, dans une section à part.
+*Un commentaire verset par verset, et les conclusions qu'on peut tirer de ce texte pour aujourd'hui.*
 
 ---
 
 ## Le passage verset par verset
 
-### v. 2
+Chaque verset est donné dans trois traductions, de la plus littérale à la plus dynamique : la [Darby révisée](https://editeurbpc.com/bible/traduction-revisee/1-corinthiens/11), la [Segond 21](https://www.universdelabible.net/lire-la-segond-21-en-ligne/1-corinthiens/11) et la [Bible du Semeur](https://www.bibleserver.com/BDS/1%20Corinthiens11).
+
+### Verset 2
 
 > **Darby révisée.** « Je vous loue de ce qu'en toutes choses vous vous souvenez de moi et de ce que vous gardez les instructions comme je vous les ai données. »
 >
@@ -30,15 +26,15 @@ Le mot traduit par « instructions » veut dire « traditions ». C'est le terme
 
 La Segond 21 et le Semeur le rendent visible. Le Semeur écrit d'ailleurs « traditions », et toutes deux traduisent le verbe de la fin par « transmises ». Paul emploie ce verbe au v. 23 pour la Cène, et en 15.3 pour le résumé de l'Évangile.
 
-L'éloge est sincère, mais il sert d'entrée en matière. Le « pourtant » du v. 3 annonce une correction : les Corinthiens tiennent bien la tradition, un point demande une mise au point.
-
-### v. 3
+### Verset 3
 
 > **Darby révisée.** « Je veux pourtant que vous le sachiez : le chef de tout homme, c'est le Christ ; le chef de la femme, c'est l'homme ; le chef du Christ, c'est Dieu. »
 >
 > **Segond 21.** « Je veux cependant que vous sachiez ceci : Christ est le chef de tout homme, l'homme est le chef de la femme, et Dieu est le chef de Christ. »
 >
 > **Semeur.** « Je voudrais cependant attirer votre attention sur un point : Christ est le chef de tout homme, l'homme est le chef de la femme, le chef de Christ, c'est Dieu. »
+
+**Le « pourtant ».** Il annonce une correction. Les Corinthiens gardent bien la tradition, mais un point demande une mise au point.
 
 **Un mot sur la traduction.** Les trois versions écrivent « chef ». Le grec porte le mot « tête ». Le même mot revient aux v. 4-5 et 10, cette fois pour la tête au sens physique. [La Darby révisée le signale en note](https://editeurbpc.com/bible/traduction-revisee/1-corinthiens/11) : « chef, litt. : tête, dans tout le v. 3 ». Paul joue sur les deux sens du début à la fin du passage. Le lecteur français voit donc deux mots là où l'apôtre n'en emploie qu'un.
 
@@ -47,7 +43,7 @@ L'éloge est sincère, mais il sert d'entrée en matière. Le « pourtant » du 
 - « celui qui est à la tête de », donc l'autorité ;
 - « la source », donc l'origine.
 
-C'est le contexte qui tranche. Ici, il va du côté de l'autorité et de l'honneur : les v. 4-10 ne parlent que de l'honneur dû à une tête et du signe qui reconnaît un ordre. L'idée d'origine n'est pas absente pour autant, puisque les v. 8 et 12 rappellent que la femme vient de l'homme et l'homme par la femme. Mais elle reste en arrière-plan.
+C'est le contexte qui tranche. Ici, il va du côté de l'autorité : les v. 4-10 ne parlent que de l'honneur dû à une tête et du signe qui reconnaît un ordre. L'idée d'origine n'est pas absente pour autant, puisque les v. 8 et 12 rappellent que la femme vient de l'homme et l'homme par la femme. Mais elle reste en arrière-plan.
 
 Le vocabulaire confirme que le sens d'autorité est possible. [Wayne Grudem a relevé 2 336 emplois du mot dans la littérature grecque](https://biblicalstudies.org.uk/pdf/tj/kephale_grudem.pdf) et conclut que ce sens est bien attesté, à la différence du sens de « source ». Son relevé est contesté et le débat continue. [Alan Johnson en a dressé le bilan](https://www.cbeinternational.org/resource/meta-study-debate-over-meaning-head-kephale-pauls-writings/) : il présente les deux camps, et il rapporte une troisième proposition, celle d'Andrew Perriman, qui réunit les deux sens en un seul : « ce qui est en avant, ce qui ressort ».
 
@@ -59,9 +55,9 @@ Le vocabulaire confirme que le sens d'autorité est possible. [Wayne Grudem a re
 
 Le verset ne donne pas non plus à chaque homme une autorité personnelle sur chaque femme. Paul ne nomme aucun homme, aucun domaine, aucune façon d'exercer une telle autorité. Dans ce passage, la conséquence concrète tient en un point : les hommes et les femmes portent des signes différents quand ils prient ou prophétisent.
 
-**Un détail de vocabulaire.** Le mot traduit par « homme » veut aussi dire « mari ». Celui traduit par « femme » veut aussi dire « épouse ». Le grec ne tranche pas. L'argument tiré de la création (v. 8-9) et les formules générales des v. 4-5 et 14-15 supposent une portée large. [La note de la Darby révisée va dans ce sens](https://editeurbpc.com/bible/traduction-revisee/1-corinthiens/11) : elle glose « l'homme en contraste avec la femme, jusqu'au v. 15 inclus ». Le mariage reste l'application personnelle la plus directe.
+**Un détail de vocabulaire.** Le mot traduit par « homme » veut aussi dire « mari ». Celui traduit par « femme » veut aussi dire « épouse ». Le grec ne tranche pas. L'argument tiré de la création (v. 8-9) et les formules générales des v. 4-5 et 14-15 supposent une portée large. [La note de la Darby révisée va dans ce sens](https://editeurbpc.com/bible/traduction-revisee/1-corinthiens/11) : elle précise « l'homme en contraste avec la femme, jusqu'au v. 15 inclus ». Le mariage reste l'application personnelle la plus directe.
 
-### v. 4
+### Verset 4
 
 > **Darby révisée.** « Tout homme qui prie ou qui prophétise en ayant [quelque chose] sur la tête déshonore sa tête ; »
 >
@@ -69,7 +65,7 @@ Le verset ne donne pas non plus à chaque homme une autorité personnelle sur ch
 >
 > **Semeur.** « Si donc un homme prie ou prophétise la tête couverte, il outrage son chef. »
 
-**De quoi parle-t-on, concrètement ?** Le grec dit seulement « ayant sur la tête », sans nommer l'objet. Les crochets de la Darby révisée signalent cet ajout. Il s'agit très probablement d'un tissu ou d'un pan de vêtement ramené sur la tête. Le v. 6 distinguera cette couverture des cheveux : il ne s'agit donc pas d'une coiffure.
+**De quoi parle-t-on, concrètement ?** Le grec dit seulement « ayant sur la tête », sans nommer l'objet. Les crochets de la Darby révisée signalent les mots ajoutés par le traducteur, absents du grec. Il s'agit très probablement d'un tissu ou d'un pan de vêtement ramené sur la tête. Le v. 6 distinguera cette couverture des cheveux : il ne s'agit donc pas d'une coiffure.
 
 Un mot sur le vocabulaire employé ici. Les trois versions disent « couvert » et « couverte ». Le mot « voile » n'apparaît qu'au v. 15, et pour un autre terme grec. Ce commentaire écrit « voile » comme raccourci pour cette couverture.
 
@@ -87,7 +83,7 @@ Le monde romain raisonnait déjà ainsi. [Plutarque demande pourquoi les Romains
 
 À l'époque, la conduite d'une personne rejaillissait sur l'honneur de celui dont elle dépendait.
 
-### v. 5
+### Verset 5
 
 > **Darby révisée.** « toute femme qui prie ou qui prophétise la tête découverte déshonore sa tête : c'est la même chose qu'une femme qui serait rasée. »
 >
@@ -119,7 +115,7 @@ Le tableau n'est pas uniforme pour autant. Valère Maxime range son anecdote au 
 
 On voit ici pourquoi le même objet produit l'effet inverse selon la personne qui le porte. La couverture contredit la place de l'homme, et elle reconnaît celle de la femme. Le sens du signe dépend de qui le porte.
 
-### v. 6
+### Verset 6
 
 > **Darby révisée.** « Si donc la femme n'est pas couverte, qu'on lui coupe aussi la chevelure. Mais s'il est honteux pour une femme d'avoir la chevelure tondue ou rasée, qu'elle soit couverte. »
 >
@@ -133,13 +129,13 @@ On voit ici pourquoi le même objet produit l'effet inverse selon la personne qu
 
 **Pourquoi ce signe au moment de la prière et de la prophétie ?** Deux éléments de réponse.
 
-Le premier tient à ce que sont ces deux actes. Prier, c'est parler à Dieu. Prophétiser, c'est porter sa parole aux autres ; [la Darby révisée glose « présenter les vérités divines »](https://editeurbpc.com/bible/traduction-revisee/1-corinthiens/11). Dans les deux cas, la personne se tient devant Dieu en pleine conscience, et elle représente quelque chose. Paul s'intéresse à ce qui se voit à ce moment-là, et son argument des v. 7-10 porte entièrement sur la gloire et sur ce qu'il convient de montrer devant Dieu. En dehors de ces actes, cette représentation n'est pas en jeu, et la question ne se pose plus dans les mêmes termes. Le voile ne sert donc pas à afficher en permanence qu'on est une femme. Il honore un ordre au moment où l'on se présente devant celui qui l'a établi.
+Le premier tient à ce que sont ces deux actes. Prier, c'est parler à Dieu. Prophétiser, c'est porter sa parole aux autres ; [la note de la Darby révisée l'explique par « présenter les vérités divines »](https://editeurbpc.com/bible/traduction-revisee/1-corinthiens/11). Dans les deux cas, la personne se tient devant Dieu en pleine conscience, et elle représente quelque chose. Paul s'intéresse à ce qui se voit à ce moment-là, et son argument des v. 7-10 porte entièrement sur la gloire et sur ce qu'il convient de montrer devant Dieu. En dehors de ces actes, cette représentation n'est pas en jeu, et la question ne se pose plus dans les mêmes termes. Le voile ne sert donc pas à afficher en permanence qu'on est une femme. Il honore un ordre au moment où l'on se présente devant celui qui l'a établi.
 
 Le second tient à la situation concrète. Paul ne crée pas une obligation valable toute la journée. Il traite le moment précis où certaines Corinthiennes retiraient leur couverture.
 
 On a proposé de rattacher ce comportement à la « femme nouvelle », un modèle d'affranchissement des codes du mariage qui apparaît dans la société romaine du premier siècle. [Bruce Winter en a réuni les preuves : les textes littéraires, les poètes élégiaques et les lois augustéennes sur le mariage](https://www.tyndalebulletin.org/article/30293-the-new-roman-wife-and-1-timothy-2-9-15-the-search-for-a-_sitz-im-leben_.pdf). Autre explication possible, qui n'exclut pas la première : la conviction que les distinctions étaient abolies en Christ (comparer Ga 3.28), ou l'exaltation liée à l'inspiration prophétique. La lettre ne le dit pas. Ces reconstitutions restent des hypothèses.
 
-### v. 7
+### Verset 7
 
 > **Darby révisée.** « Car l'homme, étant l'image et la gloire de Dieu, ne doit pas se couvrir la tête ; tandis que la femme est la gloire de l'homme. »
 >
@@ -163,7 +159,7 @@ Le vocabulaire biblique va dans le même sens : « Une femme vertueuse est la co
 
 **Une limite de l'argument, qui comptera pour l'application.** Paul fonde dans la création l'ordre entre l'homme et la femme. Mais il ne fonde pas dans la création le sens du tissu. Genèse 2 ne parle d'aucune couverture donnée à Ève. Paul part d'un signe que ses lecteurs comprennent déjà, et il montre pourquoi il faut l'employer fidèlement. Le fondement vient de la création ; la façon de le rendre visible vient du langage social de l'époque.
 
-### v. 8-9
+### Versets 8-9
 
 > **Darby révisée.** « En effet, l'homme ne procède pas de la femme, mais la femme de l'homme ; et de fait, l'homme n'a pas été créé à cause de la femme, mais la femme à cause de l'homme. »
 >
@@ -179,7 +175,7 @@ Paul remonte à Genèse 2 et retient deux données du récit : l'origine (Gn 2.2
 
 Le point est décisif pour la suite. Ce que Paul invoque ici, ce n'est pas un usage corinthien, c'est le récit de la création. Cet appui traverse les cultures. Reste à savoir si le signe visible les traverse lui aussi. Les v. 13-16 fourniront les éléments pour y répondre.
 
-### v. 10
+### Verset 10
 
 > **Darby révisée.** « C'est pourquoi la femme, à cause des anges, doit avoir sur la tête [une marque de] cette autorité. »
 >
@@ -212,7 +208,7 @@ La première paraît la meilleure. Elle s'appuie sur l'usage de Paul lui-même. 
 
 Paul ne développe pas son allusion, et il serait imprudent d'en dire plus. Ce que la mention ajoute est clair : elle souligne que l'obéissance est une chose sérieuse. Elle ne donne pas elle-même son sens au tissu.
 
-### v. 11-12
+### Versets 11-12
 
 > **Darby révisée.** « Toutefois ni la femme n'est sans l'homme, ni l'homme sans la femme, dans le Seigneur ; car comme la femme procède de l'homme, ainsi l'homme aussi vient au monde par la femme ; mais tout procède de Dieu. »
 >
@@ -230,7 +226,7 @@ La fin du verset déplace le fondement une dernière fois : « tout procède de 
 
 La distinction posée à la création demeure ; toute prétention bâtie dessus tombe. Au passage, Paul ne dit pas que l'homme et la femme seraient « tête » l'un de l'autre. Il décrit une dépendance mutuelle, pas une symétrie des places.
 
-### v. 13
+### Verset 13
 
 > **Darby révisée.** « Jugez-en par vous-mêmes : est-il convenable qu'une femme prie Dieu sans être couverte ? »
 >
@@ -244,7 +240,7 @@ Le critère qu'il invoque, c'est ce qui convient, c'est-à-dire ce qui va de soi
 
 Deux détails encore. Paul écrit « prie Dieu », sans préciser le cadre : la scène évoquée peut rester très simple. Et le verbe décrit une prière qu'on entend et qu'on voit, ce qui correspond à une pratique communautaire ordinaire plutôt qu'à la prière intérieure ou solitaire.
 
-### v. 14-15
+### Versets 14-15
 
 > **Darby révisée.** « La nature même ne vous enseigne-t-elle pas que, si un homme a une longue chevelure, c'est un déshonneur pour lui ? tandis que si une femme a une longue chevelure, c'est une gloire pour elle, parce que la chevelure lui est donnée en guise de voile. »
 >
@@ -256,7 +252,7 @@ Deux détails encore. Paul écrit « prie Dieu », sans préciser le cadre : la 
 
 Les deux aspects comptent. La différence est réelle, ce n'est pas une pure convention. Mais sa forme visible varie. Les cheveux longs chez un homme n'ont pas toujours été tenus pour un déshonneur : le vœu de naziréat les imposait (Nb 6.5), Absalom en tirait fierté (2 S 14.26), et [les jeunes Spartiates soignaient leur chevelure avant le combat](https://remacle.org/bloodwolf/historiens/Plutarque/lycurgue1.htm) (Plutarque, *Vie de Lycurgue* 22). Paul ne fixe d'ailleurs aucune longueur. Son point porte sur la différence : une apparence reconnue comme féminine déshonore l'homme qui l'adopte comme telle. L'ordre entre les sexes fournit le fondement ; l'usage social le rend lisible.
 
-**« En guise de voile ».** Le grec porte une formule qui veut dire « à la place d'un vêtement » ou « en correspondance avec un vêtement ». Le mot rendu par « voile » n'est pas celui des versets précédents : [la Darby révisée le glose « ici, ce qui enveloppe, ce qui revêt »](https://editeurbpc.com/bible/traduction-revisee/1-corinthiens/11). Les trois versions vont dans le premier sens : « en guise de voile », « pour servir de voile », « pour lui servir de voile ». Deux lectures s'opposent.
+**« En guise de voile ».** Le grec porte une formule qui veut dire « à la place d'un vêtement » ou « en correspondance avec un vêtement ». Le mot rendu par « voile » n'est pas celui des versets précédents : [la note de la Darby révisée l'explique par « ici, ce qui enveloppe, ce qui revêt »](https://editeurbpc.com/bible/traduction-revisee/1-corinthiens/11). Les trois versions vont dans le premier sens : « en guise de voile », « pour servir de voile », « pour lui servir de voile ». Deux lectures s'opposent.
 
 La première fait des cheveux le voile demandé, ce qui rendrait tout tissu inutile. La seconde y voit une comparaison : la nature a donné une couverture à la femme, ce qui rend le voile de tissu conforme à l'ordre des choses.
 
@@ -264,7 +260,7 @@ La seconde paraît la bonne, malgré le choix des trois versions, pour la raison
 
 **Un détail à noter.** Paul appelle les cheveux de la femme « une gloire » pour elle, alors que le v. 7 faisait de la femme la gloire de l'homme. Les deux tiennent ensemble : ce qui fait sa beauté propre fait aussi l'honneur de celui dont elle vient.
 
-### v. 16
+### Verset 16
 
 > **Darby révisée.** « Si quelqu'un paraît vouloir contester, nous n'avons pas, nous, une telle coutume, ni les assemblées de Dieu. »
 >

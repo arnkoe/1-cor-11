@@ -1,12 +1,8 @@
 ---
 layout: page
 title: "Étude de 1 Cor 11:2-16"
-description: "Un commentaire verset par verset, et les conclusions qu'on peut tirer de ce texte pour aujourd'hui."
+description: "Un commentaire verset par verset, et les conclusions qu’on peut tirer de ce texte pour aujourd’hui."
 ---
-
-# Étude de 1 Cor 11:2-16
-
-*Un commentaire verset par verset, et les conclusions qu'on peut tirer de ce texte pour aujourd'hui.*
 
 ---
 

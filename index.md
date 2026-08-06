@@ -147,17 +147,7 @@ Le premier tient à ce que sont ces deux actes. Prier, c'est parler à Dieu. Pro
 
 Le second tient à la situation concrète. Paul ne crée pas une obligation valable toute la journée. Il traite le moment précis où certaines Corinthiennes retiraient leur couverture.
 
-**On ignore pourquoi elles le faisaient.** Plusieurs explications ont été proposées. Aucune n'est démontrée.
-
-La plus connue est celle de la « femme nouvelle » : un modèle d'affranchissement des codes du mariage qui serait apparu dans la société romaine du premier siècle. [Bruce Winter en a réuni le dossier](https://www.tyndalebulletin.org/article/30293-the-new-roman-wife-and-1-timothy-2-9-15-the-search-for-a-_sitz-im-leben_.pdf) : les moralistes, les poètes élégiaques et les lois augustéennes sur le mariage. Cette reconstitution est discutée, pour trois raisons.
-
-- **Les sources ne viennent pas de Corinthe.** Elles décrivent Rome et le milieu sénatorial. Les lois augustéennes sur le mariage datent de 18 av. J.-C. et de l'an 9. La lettre aux Corinthiens est des années 50.
-- **Les sources sont littéraires.** La maîtresse des poètes élégiaques est un personnage de poème. Les satiristes et les moralistes dénoncent un travers ; ils ne décrivent pas une population.
-- **Le portrait ne s'accorde pas avec le texte.** [Kevin Giles le relève dans sa recension](https://www.cbeinternational.org/resource/book-review-roman-wives-roman-widows-appearance-new-women-and/) : Winter réserve la consigne de Paul aux femmes mariées, alors que Paul écrit « toute femme ». [Debra Bucher, examinant le même type de reconstruction chez Winter, juge peu convaincant le lien qu'il établit entre les changements de la société romaine et les réponses de Paul](https://bmcr.brynmawr.edu/2002/2002.06.15/).
-
-D'autres explications ont été avancées, qui n'excluent pas la première : la conviction que les distinctions étaient abolies en Christ (comparer Ga 3.28), ou l'exaltation liée à l'inspiration prophétique.
-
-La lettre ne dit rien sur ce point. Ces reconstitutions restent des hypothèses, et l'argument de Paul ne dépend d'aucune d'elles.
+**On ignore pourquoi elles le faisaient.** Plusieurs explications ont été proposées : l'influence d'un modèle romain d'affranchissement des codes du mariage, la conviction que les distinctions étaient abolies en Christ (comparer Ga 3.28), l'exaltation liée à l'inspiration prophétique. La lettre ne dit rien. Ces reconstitutions restent des hypothèses, et l'argument de Paul ne dépend d'aucune d'elles.
 
 ### v. 7
 

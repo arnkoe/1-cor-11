@@ -134,6 +134,8 @@ D'abord le mot *exousia* (« autorité »). Le grec dit littéralement que la fe
 
 Beaucoup comprennent donc : la femme possède l'autorité de prier et de prophétiser, et le voile en est l'expression visible. Il rend l'exercice de ce droit honorable, en attestant qu'elle agit dans le respect de l'ordre voulu par Dieu et non en indépendante.
 
+Cette lecture ne fait pas l'unanimité. [Thomas Schreiner lui oppose la structure du passage](https://document.desiringgod.org/recovering-biblical-manhood-and-womanhood-en.pdf) : le verset 10 répond au verset 7. L'homme « ne doit pas » se couvrir la tête ; la femme « doit » avoir autorité sur la tête. Le verbe « doit » exprime une obligation, pas un droit qu'on possède déjà. Un objet porté sur la tête peut d'ailleurs symboliser l'autorité d'un autre : [Diodore de Sicile décrit une statue portant « trois royaumes sur la tête »](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/1C*.html), trois couronnes rappelant que cette femme fut fille, épouse et mère de rois (*Bibliothèque historique* 1.47.5). Les Pères grecs lisaient le verset dans ce sens : [pour Jean Chrysostome, être couverte est « une marque de soumission »](https://www.newadvent.org/fathers/220126.htm) (*Homélie 26 sur 1 Corinthiens*). Le débat reste ouvert.
+
 Ensuite « à cause des anges ». L'explication la plus sobre voit dans les anges les témoins de la vie des croyants et les gardiens de l'ordre créé (comparez 1 Corinthiens 4.9, 1 Timothée 5.21, 1 Pierre 1.12). Leur regard ne se limite pas à un moment particulier : ils accompagnent toute la vie chrétienne, ce qui s'accorde avec la portée générale de l'instruction.
 
 ### Verset 11
@@ -184,6 +186,8 @@ Le mot « nature » (*phusis*) désigne ici moins la biologie que l'ordre des ch
 
 Paul s'appuie sur ce sentiment commun comme argument de renfort, pas comme loi absolue. Le vœu de naziréat imposait justement les cheveux longs (Nb 6.5), et [les jeunes Spartiates soignaient leur chevelure avant le combat](https://remacle.org/bloodwolf/historiens/Plutarque/lycurgue1.htm) (Plutarque, *Vie de Lycurgue* 22).
 
+Ce sens du mot est pourtant discuté. Dans ses huit autres emplois chez Paul, *phusis* ne désigne jamais la coutume (Rm 1.26 ; 2.14, 27 ; 11.21, 24 ; Ga 2.15 ; 4.8 ; Ép 2.3). Les philosophes de l'époque opposaient même la nature à la coutume dans ce genre d'argument. D'autres interprètes pensent donc que Paul part d'un fait d'observation : la chevelure des femmes pousse naturellement plus longue que celle des hommes.
+
 ### Verset 15
 
 > **Darby révisée.** « tandis que si une femme a une longue chevelure, c'est une gloire pour elle, parce que la chevelure lui est donnée en guise de voile. »
@@ -220,7 +224,11 @@ Le principe : honorer l'ordre voulu par Dieu entre l'homme et la femme, fondé s
 
 Le signe : le voile, qui portait au premier siècle un sens précis (respectabilité, honneur conjugal, refus de l'indépendance affichée) qu'il n'a plus tel quel dans la plupart des cultures occidentales.
 
-Beaucoup d'églises concluent que le principe demeure mais s'exprime autrement, par une tenue et une attitude qui honorent Dieu et son conjoint. D'autres, notamment dans les assemblées issues du mouvement de Darby, maintiennent le voile comme pratique littérale. Elles soulignent que Paul argumente à partir de la création et des anges, pas seulement de la culture. Les deux positions méritent le respect, et le verset 16 invite précisément à ne pas en faire un sujet de querelle.
+Beaucoup d'églises concluent que le principe demeure mais s'exprime autrement, par une tenue et une attitude qui honorent Dieu et son conjoint. D'autres, notamment dans les assemblées issues du mouvement de Darby, maintiennent le voile comme pratique littérale. Elles soulignent que Paul argumente à partir de la création et des anges, pas seulement de la culture.
+
+Les premières répondent que Paul argumente à partir de la création pour fonder le principe, jamais pour fonder le sens du voile. Ce sens, il le suppose : la société l'avait déjà mis en place, et aucun texte biblique ne l'institue comme une règle venue de Dieu. Paul ne crée donc pas un code nouveau. Il se sert d'un code existant pour appliquer un principe permanent. Cette réponse a toutefois une limite : si au verset 10 le voile est un symbole de l'ordre voulu par Dieu, alors Paul lie lui-même le signe au principe. Tout dépend donc, là encore, de la traduction de ce verset.
+
+Les deux positions méritent le respect, et le verset 16 invite précisément à ne pas en faire un sujet de querelle.
 
 Deuxième conclusion : ce texte atteste que des femmes priaient et prophétisaient à haute voix, en présence d'autres personnes, avec l'approbation de Paul. Il encadre l'exercice de ces dons, il ne le supprime pas. Toute lecture qui utiliserait le passage pour réduire les femmes au silence en toute circonstance contredit son point de départ.
 

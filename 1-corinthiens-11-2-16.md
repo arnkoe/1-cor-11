@@ -6,8 +6,6 @@ article: true
 last_modified: 2026-08-08
 ---
 
----
-
 ## Le passage verset par verset
 
 Chaque verset est donné dans trois traductions, de la plus littérale à la plus dynamique : la [Darby révisée](https://editeurbpc.com/bible/traduction-revisee/1-corinthiens/11), la [Segond 21](https://www.universdelabible.net/lire-la-segond-21-en-ligne/1-corinthiens/11) et la [Bible du Semeur](https://www.bibleserver.com/BDS/1%20Corinthiens11).
@@ -20,9 +18,9 @@ Chaque verset est donné dans trois traductions, de la plus littérale à la plu
 >
 > **Semeur.** « Je vous félicite de vous souvenir de moi en toute occasion et de maintenir fidèlement les traditions que je vous ai transmises. »
 
-Paul ouvre par un éloge. Le mot traduit par « instructions » est *paradoseis*, les « traditions » : l'enseignement apostolique transmis aux églises.
+Paul commence par un éloge. Le mot traduit par « instructions » ou « traditions » désigne l'enseignement que les apôtres transmettaient aux églises. Il ne s'agit donc pas de traditions au sens d'habitudes culturelles ou humaines.
 
-L'éloge est général et prolonge les versets qui précèdent immédiatement (10.31-11.1), où Paul invitait les Corinthiens à l'imiter. Il porte sur leur fidélité d'ensemble aux traditions, pas sur une réunion particulière.
+Cet éloge prolonge les versets qui précèdent immédiatement (10.31-11.1), où Paul invitait les Corinthiens à l'imiter.
 
 Les deux sections qui suivent vont d'ailleurs nuancer ce compliment chacune à leur manière : « mais je veux que vous sachiez » au verset 3, puis « je ne vous loue pas » au verset 17. L'éloge fonctionne donc comme une préface bienveillante avant deux mises au point.
 
@@ -34,9 +32,9 @@ Les deux sections qui suivent vont d'ailleurs nuancer ce compliment chacune à l
 >
 > **Semeur.** « Je voudrais cependant attirer votre attention sur un point : Christ est le chef de tout homme, l'homme est le chef de la femme, le chef de Christ, c'est Dieu. »
 
-C'est le fondement théologique du passage. Le mot grec *kephalē* (« tête », « chef ») fait l'objet d'un débat célèbre : certains y voient une idée d'autorité, d'autres une idée de source ou d'origine, comme la « tête » d'un fleuve. Les versets 8 et 12 appuient plutôt le sens d'origine, mais les deux nuances peuvent coexister.
+C'est le fondement théologique du passage. Le mot traduit par « chef » est le même que celui qui désigne la « tête » dans la suite du passage. Au sens propre, il ne signifie que « tête » ; « chef » est une manière de rendre son sens figuré. Ce sens figuré fait l'objet d'un débat célèbre : certains y voient une idée d'autorité, d'autres une idée de source ou d'origine, comme la « tête » d'un fleuve. Les versets 8 et 12 appuient plutôt le sens d'origine, mais les deux nuances peuvent coexister.
 
-Notez l'ordre surprenant de la phrase : Christ/homme, homme/femme, Dieu/Christ. Paul termine par « Dieu est le chef de Christ », ce qui interdit de lire une infériorité de nature. Le Fils est pleinement Dieu tout en se soumettant au Père.
+L'ordre de la phrase est surprenant : Christ/homme, homme/femme, Dieu/Christ. Si Paul avait voulu décrire une hiérarchie descendante, il aurait écrit Dieu, Christ, l'homme, la femme. Surtout, il termine par « Dieu est le chef de Christ », ce qui interdit de lire une infériorité de nature : le Fils est pleinement Dieu tout en se soumettant au Père.
 
 La relation homme-femme est donc pensée sur ce modèle : distinction et ordre, sans hiérarchie de valeur. Ces principes sont énoncés de façon large, comme une vérité valable partout, avant toute application pratique.
 
@@ -48,11 +46,11 @@ La relation homme-femme est donc pensée sur ce modèle : distinction et ordre, 
 >
 > **Semeur.** « Si donc un homme prie ou prophétise la tête couverte, il outrage son chef. »
 
-Un détail de formulation mérite attention : Paul dit « tout homme qui prie ou qui prophétise », sans préciser de lieu ni de circonstance. Aucun cadre n'est attaché aux participes. La règle vaut donc partout où il est légitime de prier ou de prophétiser à haute voix devant d'autres.
+Un détail de formulation mérite attention : Paul dit « tout homme qui prie ou qui prophétise », sans préciser de lieu ni de circonstance. Il s'agit pourtant bien de paroles prononcées à haute voix devant d'autres personnes : la prophétie est un message adressé à des auditeurs, et le déshonneur dont parle Paul suppose des témoins. La règle vaut donc partout où l'on prie ou prophétise de cette manière, quel que soit le cadre.
 
-Le contexte romain éclaire le geste visé. Les hommes pieux se couvraient la tête pour sacrifier aux dieux, une pose dite *capite velato*. [Tite-Live décrit le consul Décius priant « la tête voilée »](https://remacle.org/bloodwolf/historiens/Tite/livre8.htm) (*Histoire romaine* 8.9), [Virgile prescrit le même geste à Énée](https://remacle.org/bloodwolf/poetes/virgile/eneide3.htm) (*Énéide* 3.405), et [Preston Massey compte quatorze passages de ce genre chez le seul Tite-Live](https://summerstudy.yale.edu/sites/default/files/3masseyveilingmen.pdf). Or [Corinthe était une colonie romaine, refondée par Jules César en 46 av. J.-C.](https://www.livius.org/articles/place/corinth/roman-corinth/)
+Le contexte romain éclaire le geste visé. Les hommes pieux se couvraient la tête pour sacrifier aux dieux. [Tite-Live décrit le consul Décius priant « la tête voilée »](https://remacle.org/bloodwolf/historiens/Tite/livre8.htm) (*Histoire romaine* 8.9), [Virgile prescrit le même geste à Énée](https://remacle.org/bloodwolf/poetes/virgile/eneide3.htm) (*Énéide* 3.405), et [Preston Massey compte quatorze passages de ce genre chez le seul Tite-Live](https://summerstudy.yale.edu/sites/default/files/3masseyveilingmen.pdf). Les Anciens expliquaient ce geste par le souci d'éviter qu'un spectacle ou un son de mauvais augure ne vienne troubler le rite : c'est le motif qu'invoque Virgile, et [l'une des explications que discute Plutarque](https://remacle.org/bloodwolf/historiens/Plutarque/questionsromaines.htm) (*Questions romaines* 10). Or [Corinthe était une colonie romaine, refondée par Jules César en 46 av. J.-C.](https://www.livius.org/articles/place/corinth/roman-corinth/)
 
-L'objection est connue, et il faut la signaler : le geste romain appartenait à celui qui présidait le rite, pas à tous les assistants. Aucun texte ni aucun objet ne montre un chrétien de Corinthe la tête couverte. L'usage romain est un fait ; son imitation à Corinthe reste une reconstitution vraisemblable.
+Cette explication se heurte cependant à une objection : le geste romain appartenait à celui qui présidait le rite, pas à tous les assistants. Aucun texte ni aucun objet ne montre un chrétien de Corinthe la tête couverte. L'usage romain est un fait ; son imitation à Corinthe reste une reconstitution vraisemblable.
 
 Un chrétien qui reproduirait ce geste en priant brouillerait le témoignage et déshonorerait « son chef », c'est-à-dire Christ (verset 3). Le jeu de mots est voulu : couvrir sa tête physique déshonore sa « tête » spirituelle.
 
@@ -64,15 +62,13 @@ Un chrétien qui reproduirait ce geste en priant brouillerait le témoignage et 
 >
 > **Semeur.** « Mais si une femme prie ou prophétise la tête non couverte, elle outrage son chef à elle : c'est comme si elle était rasée. »
 
-Point capital : Paul suppose que des femmes prient et prophétisent à haute voix, en présence d'autres personnes, et il ne condamne pas l'activité elle-même. Il en règle seulement la manière. La prophétie suppose des auditeurs : on ne prophétise pas seul.
+Point capital : Paul suppose que des femmes prient et prophétisent à haute voix, en présence d'autres personnes, et il ne condamne pas l'activité elle-même. Il en règle seulement la manière. Quant au cas d'une femme qui prierait seule à voix haute, le texte ne l'envisage pas : le déshonneur suppose un regard extérieur, et la prière est ici associée à la prophétie, qui s'adresse toujours à des auditeurs.
 
 Le texte ne précise pas davantage le cadre que pour l'homme au verset 4, et la symétrie des deux versets invite à leur donner la même portée générale.
 
-Le contexte social explique l'enjeu. Une femme respectable sortait la tête couverte, et paraître dévoilée devant des hommes extérieurs au cercle familial envoyait un signal d'indécence ou d'indépendance conjugale. [Valère Maxime raconte que Sulpicius Gallus a répudié sa femme parce qu'elle s'était montrée en public le visage découvert](https://remacle.org/bloodwolf/historiens/valere/livre6.htm) (*Faits et dits mémorables* 6.3.10), et [Dion Chrysostome décrit les femmes de Tarse entièrement couvertes en public](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dio_Chrysostom/Discourses/33%2A.html) (*Discours* 33.48-49).
+Le contexte social explique l'enjeu. Dans une bonne partie du monde antique, une femme respectable sortait la tête couverte, et paraître dévoilée devant des hommes extérieurs au cercle familial pouvait passer pour un signe d'indécence ou d'indépendance conjugale. L'usage n'était toutefois pas uniforme : [il variait selon le lieu, le rang et l'époque](https://www.bible-researcher.com/headcoverings3.html), et [les portraits de femmes retrouvés à Corinthe les montrent le plus souvent tête nue](https://www.tyndalebulletin.org/article/30525-the-importance-of-roman-portraiture-for-head-coverings-in-1-corinthians-11-2-16.pdf).
 
-L'usage n'était pourtant pas uniforme : [les portraits de femmes retrouvés à Corinthe les montrent le plus souvent tête nue](https://www.tyndalebulletin.org/article/30525-the-importance-of-roman-portraiture-for-head-coverings-in-1-corinthians-11-2-16.pdf), et [il variait selon le lieu, le rang et l'époque](https://www.bible-researcher.com/headcoverings3.html).
-
-Être tondue ou rasée était une marque de déshonneur. Le rite prévu pour la femme soupçonnée d'adultère consistait à découvrir ou à dénouer ses cheveux (Nb 5.18) ; [Philon précise qu'on la jugeait « tête nue, privée du symbole de la pudeur »](https://www.earlyjewishwritings.com/text/philo/book29.html) (*Lois spéciales* 3.56). Prier ou prophétiser dévoilée revenait donc, socialement, à s'exposer à la même honte.
+Être tondue ou rasée était en revanche une marque de déshonneur, souvent liée à l'adultère. La femme qui en était soupçonnée comparaissait les cheveux découverts ou dénoués (Nb 5.18), [Philon précise qu'on la jugeait « tête nue, privée du symbole de la pudeur »](https://www.earlyjewishwritings.com/text/philo/book29.html) (*Lois spéciales* 3.56), et [Tacite rapporte que chez les Germains le mari trompé chassait sa femme adultère après l'avoir rasée](https://remacle.org/bloodwolf/historiens/tacite/germains.htm) (*Germanie* 19). Prier ou prophétiser dévoilée revenait donc, socialement, à s'exposer à la même honte.
 
 ### Verset 6
 
@@ -118,9 +114,9 @@ Le principe qu'il défend a donc une portée qui dépasse les usages corinthiens
 >
 > **Semeur.** « et l'homme n'a pas été créé à cause de la femme, mais la femme à cause de l'homme. »
 
-Écho de Genèse 2.18 : la femme est créée comme « aide » correspondant à l'homme. Le mot hébreu (*ezer*) n'a rien de dévalorisant. Il est souvent employé pour Dieu lui-même venant au secours d'Israël (Ex 18.4 ; Ps 33.20 ; 121.2).
+Écho de Genèse 2.18 : la femme est créée comme « aide » correspondant à l'homme. Le mot hébreu traduit par « aide » n'a rien de dévalorisant. Il est souvent employé pour Dieu lui-même venant au secours d'Israël (Ex 18.4 ; Ps 33.20 ; 121.2).
 
-Paul souligne une orientation relationnelle dans la création : l'homme et la femme ne sont pas interchangeables, ils sont l'un pour l'autre selon un ordre donné.
+Paul rappelle donc ce que dit le récit de la création : la femme a été créée pour l'homme, et non l'inverse. Il y a là un ordre qui n'est pas symétrique, même s'il n'implique aucune infériorité, comme le montre le sens du mot « aide ».
 
 ### Verset 10
 
@@ -132,11 +128,11 @@ Paul souligne une orientation relationnelle dans la création : l'homme et la fe
 
 Verset le plus difficile du passage. Deux problèmes s'entremêlent.
 
-D'abord le mot *exousia* (« autorité »). Le grec dit littéralement que la femme « doit avoir autorité sur sa tête ». Les mots « une marque de » et « dont elle dépend » sont ajoutés par les traducteurs ; la Darby révisée les met entre crochets. Deux lectures s'opposent.
+D'abord le mot traduit par « autorité ». Le grec dit littéralement que la femme « doit avoir autorité sur sa tête ». Les mots « une marque de » et « dont elle dépend » sont ajoutés par les traducteurs ; la Darby révisée les met entre crochets. Deux lectures s'opposent.
 
-La première s'appuie sur l'usage du mot : ailleurs dans le Nouveau Testament, *exousia* désigne une autorité que l'on possède, pas le signe de l'autorité d'un autre. La femme possède donc l'autorité de prier et de prophétiser, et le voile en est l'expression visible. Il rend l'exercice de ce droit honorable, en attestant qu'elle agit dans le respect de l'ordre voulu par Dieu et non en indépendante.
+La première s'appuie sur l'usage du mot : ailleurs dans le Nouveau Testament, il désigne une autorité que l'on possède, pas le signe de l'autorité d'un autre. La femme possède donc l'autorité de prier et de prophétiser, et le voile en est l'expression visible. Il rend l'exercice de ce droit honorable, en attestant qu'elle agit dans le respect de l'ordre voulu par Dieu et non en indépendante.
 
-La seconde s'appuie sur la structure du passage : le verset 10 répond au verset 7. L'homme « ne doit pas » se couvrir la tête ; la femme « doit » avoir autorité sur la tête. Le verbe « doit » exprime une obligation, pas un droit qu'on possède déjà, et le voile symbolise alors l'autorité dont la femme dépend. C'est la lecture ancienne : [pour Jean Chrysostome, être couverte est « une marque de soumission »](https://www.newadvent.org/fathers/220126.htm) (*Homélie 26 sur 1 Corinthiens*). Le débat reste ouvert.
+Selon la seconde, le verset 10 répond au verset 7 : l'homme « ne doit pas » se couvrir la tête, la femme « doit » avoir autorité sur la tête. Le verbe « doit » exprime une obligation, pas un droit qu'on possède déjà, et le voile symbolise alors l'autorité dont la femme dépend. Le débat reste ouvert.
 
 Ensuite « à cause des anges ». L'explication la plus sobre voit dans les anges les témoins de la vie des croyants et les gardiens de l'ordre créé (comparez 1 Corinthiens 4.9, 1 Timothée 5.21, 1 Pierre 1.12). Leur regard ne se limite pas à un moment particulier : ils accompagnent toute la vie chrétienne, ce qui s'accorde avec la portée générale de l'instruction.
 
@@ -160,9 +156,9 @@ Le « toutefois » marque un tournant décisif. Paul corrige lui-même toute lec
 >
 > **Semeur.** « car si la femme a été tirée de l'homme, celui-ci, à son tour, naît de la femme et, finalement, tous deux doivent leur vie à Dieu. »
 
-Paul boucle son raisonnement avec élégance. Ève vient d'Adam, mais depuis, chaque homme vient d'une femme par la naissance. La dépendance est réciproque.
+Paul boucle son raisonnement. Ève vient d'Adam, mais depuis, chaque homme vient d'une femme par la naissance. La dépendance est réciproque.
 
-Et la pointe finale relativise tout : « tout vient de Dieu ». L'origine première n'est ni l'homme ni la femme, mais le Créateur. La question de la préséance se dissout dans la reconnaissance commune de la grâce.
+La fin du verset ramène tout à Dieu : « tout vient de Dieu ». Ni l'homme ni la femme n'est l'origine première de l'autre ; tous deux tiennent leur vie du Créateur.
 
 ### Verset 13
 
@@ -174,7 +170,7 @@ Et la pointe finale relativise tout : « tout vient de Dieu ». L'origine premi�
 
 Paul change de registre et en appelle au jugement de ses lecteurs. Le mot « convenable » relève du sens des convenances, donc en partie de la culture. Il fait confiance à leur discernement : dans leur contexte, la réponse allait de soi.
 
-Remarquez aussi la formulation : « qu'une femme prie Dieu », sans mention d'un lieu ou d'une occasion. L'appel au bon sens confirme la méthode de Paul dans tout le passage. Un principe théologique fondé sur la création, exprimé par un signe dont la force vient de la sensibilité sociale partagée.
+Remarquez aussi la formulation : « qu'une femme prie Dieu », sans mention d'un lieu ou d'une occasion. Cet appel au bon sens illustre la démarche de Paul dans tout le passage : le principe vient de la création, mais le signe qui l'exprime tire sa force de ce que tous, à l'époque, trouvaient convenable.
 
 ### Verset 14
 
@@ -184,11 +180,9 @@ Remarquez aussi la formulation : « qu'une femme prie Dieu », sans mention d'un
 >
 > **Semeur.** « Ne paraît-il pas naturel à tout le monde que c'est une indignité pour un homme de porter des cheveux longs »
 
-Le mot « nature » (*phusis*) désigne ici moins la biologie que l'ordre des choses tel qu'il est ressenti et vécu, y compris dans ses expressions culturelles. Dans le monde gréco-romain du premier siècle, une chevelure longue et apprêtée chez un homme évoquait l'efféminement : [Philon range les hommes aux cheveux « bouclés et parés avec soin » parmi les efféminés](https://www.earlyjewishwritings.com/text/philo/book29.html) (*Lois spéciales* 3.37).
+Selon une première lecture, le mot « nature » désigne ici l'ordre des choses tel que chacun le ressent, ce qui inclut les usages du temps. Dans le monde gréco-romain du premier siècle, une chevelure longue et apprêtée chez un homme évoquait en effet l'efféminement : [Philon range les hommes aux cheveux « bouclés et parés avec soin » parmi les efféminés](https://www.earlyjewishwritings.com/text/philo/book29.html) (*Lois spéciales* 3.37), [Épictète se moque d'un jeune homme à la coiffure trop apprêtée](https://remacle.org/bloodwolf/philosophes/epictete/entretiens3.htm) (*Entretiens* 3.1), et [le Pseudo-Phocylide interdit de laisser pousser les cheveux d'un garçon](https://urantiapedia.org/en/Bible/Pseudo_Phocylides/1), la longue chevelure convenant selon lui aux femmes (*Sentences* 210-212). Paul s'appuierait donc sur ce sentiment commun comme argument de renfort, pas comme loi absolue : le vœu de naziréat imposait justement les cheveux longs (Nb 6.5).
 
-Paul s'appuie sur ce sentiment commun comme argument de renfort, pas comme loi absolue. Le vœu de naziréat imposait justement les cheveux longs (Nb 6.5), et [les jeunes Spartiates soignaient leur chevelure avant le combat](https://remacle.org/bloodwolf/historiens/Plutarque/lycurgue1.htm) (Plutarque, *Vie de Lycurgue* 22).
-
-Ce sens du mot est pourtant discuté. Dans ses huit autres emplois chez Paul, *phusis* ne désigne jamais la coutume (Rm 1.26 ; 2.14, 27 ; 11.21, 24 ; Ga 2.15 ; 4.8 ; Ép 2.3). Les philosophes de l'époque opposaient même la nature à la coutume dans ce genre d'argument. D'autres interprètes pensent donc que Paul part d'un fait d'observation : la chevelure des femmes pousse naturellement plus longue que celle des hommes.
+Ce sens du mot est pourtant discuté. Dans ses huit autres emplois chez Paul, le mot traduit par « nature » ne désigne jamais la coutume (Rm 1.26 ; 2.14, 27 ; 11.21, 24 ; Ga 2.15 ; 4.8 ; Ép 2.3), et les philosophes de l'époque opposaient même la nature à la coutume dans ce genre d'argument. D'autres interprètes pensent donc que Paul en appelle ici à un sentiment inscrit en l'homme par le Créateur, et non à une simple convention sociale.
 
 ### Verset 15
 
@@ -198,9 +192,7 @@ Ce sens du mot est pourtant discuté. Dans ses huit autres emplois chez Paul, *p
 >
 > **Semeur.** « mais qu'une longue chevelure fait honneur à la femme ? Car la chevelure lui a été donnée pour lui servir de voile. »
 
-La longue chevelure féminine est présentée comme une gloire et comme un « voile » naturel. Le mot grec *peribolaion* désigne un vêtement qui enveloppe. L'argument est intéressant : la nature elle-même donne à la femme une couverture, ce qui confirme la convenance du voile.
-
-Certains interprètes vont plus loin et pensent que la chevelure elle-même est la couverture demandée par Paul. Cette lecture reste minoritaire, mais elle montre la souplesse du texte.
+La longue chevelure féminine est présentée comme une gloire et comme un « voile » naturel. Le mot traduit par « voile » désigne un vêtement qui enveloppe. La nature elle-même donne donc à la femme une couverture, ce qui confirme la convenance du voile.
 
 ### Verset 16
 
@@ -212,7 +204,7 @@ Certains interprètes vont plus loin et pensent que la chevelure elle-même est 
 
 Paul clôt le débat par un argument d'unité. Le grec dit littéralement « nous n'avons pas une telle coutume » : soit la coutume de contester, soit la coutume que les femmes prient dévoilées, selon les interprètes.
 
-Le mot « Églises » (*ekklēsiai*) désigne ici les communautés chrétiennes des autres villes, comme en 1.2 où « l'Église de Dieu à Corinthe » englobe tous les croyants de la ville.
+Le mot traduit par « Églises » désigne ici les églises locales des autres villes, comme en 1.2, où Paul s'adresse à l'église de Dieu établie à Corinthe.
 
 Paul en appelle donc à une pratique établie parmi les communautés chrétiennes dans leur ensemble. La coutume qu'il défend n'est pas son idée personnelle, mais une norme partagée dont les Corinthiens ne doivent pas se singulariser par esprit de querelle. Son souci pastoral est l'harmonie entre les communautés et leur témoignage commun.
 
@@ -228,14 +220,14 @@ Le signe : le voile, qui portait au premier siècle un sens précis (respectabil
 
 Beaucoup d'églises concluent que le principe demeure mais s'exprime autrement, par une tenue et une attitude qui honorent Dieu et son conjoint. D'autres, notamment dans les assemblées issues du mouvement de Darby, maintiennent le voile comme pratique littérale. Elles soulignent que Paul argumente à partir de la création et des anges, pas seulement de la culture.
 
-Les premières répondent que Paul argumente à partir de la création pour fonder le principe, jamais pour fonder le sens du voile. Ce sens, il le suppose : la société l'avait déjà mis en place, et aucun texte biblique ne l'institue comme une règle venue de Dieu. Paul ne crée donc pas un code nouveau. Il se sert d'un code existant pour appliquer un principe permanent. Cette réponse a toutefois une limite : si au verset 10 le voile est un symbole de l'ordre voulu par Dieu, alors Paul lie lui-même le signe au principe. Tout dépend donc, là encore, de la traduction de ce verset.
+Les premières répondent que Paul argumente à partir de la création pour fonder le principe, jamais pour fonder le sens du voile. Ce sens, il le suppose : la société l'avait déjà mis en place, et aucun texte biblique ne l'institue comme une règle venue de Dieu. Paul ne crée donc pas un code nouveau. Il se sert d'un code existant pour appliquer un principe permanent. Cette réponse a toutefois une limite : si au verset 10 le voile est un symbole de l'ordre voulu par Dieu, alors Paul lie lui-même le signe au principe. Encore resterait-il à montrer que ce lien vaut pour toutes les cultures : un symbole peut exprimer l'ordre voulu par Dieu dans un contexte donné sans devenir pour autant une règle permanente. Tout dépend donc, là encore, de la traduction de ce verset et de la portée qu'on lui donne.
 
 Les deux positions méritent le respect, et le verset 16 invite précisément à ne pas en faire un sujet de querelle.
 
-Deuxième conclusion : ce texte atteste que des femmes priaient et prophétisaient à haute voix, en présence d'autres personnes, avec l'approbation de Paul. Il encadre l'exercice de ces dons, il ne le supprime pas. Toute lecture qui utiliserait le passage pour réduire les femmes au silence en toute circonstance contredit son point de départ.
+Deuxième conclusion : ce texte atteste que des femmes priaient et prophétisaient à haute voix, en présence d'autres personnes, avec l'approbation de Paul. Il en règle la manière, il ne les interdit pas. Toute lecture qui s'appuierait sur ce passage pour interdire aux femmes de prier ou de prophétiser à voix haute devant d'autres personnes, en particulier devant des hommes, contredit donc son point de départ.
 
 Troisième conclusion : les versets 11 et 12 donnent la clé d'équilibre. Distinction n'est pas hiérarchie de valeur, et l'ordre créationnel s'accomplit dans une interdépendance réelle « dans le Seigneur ». Un homme qui tirerait de ce passage un droit à dominer, ou une lecture qui gommerait toute distinction, manqueraient l'un et l'autre la pensée de Paul.
 
-Enfin, le passage nous apprend une méthode. Paul tient ensemble trois fils : un fondement théologique tiré de la création, un signe dont la force expressive vient des convenances sociales de son temps, et le souci de l'unité et du témoignage des communautés.
+Enfin, le passage montre comment Paul raisonne : il part d'un principe fondé sur la création, il l'exprime par un signe que sa culture comprenait, et il veille à l'unité des églises et à leur témoignage.
 
 Pour appliquer ce texte aujourd'hui, il faut refaire le même travail. Se demander ce que nos gestes, nos vêtements et nos attitudes communiquent réellement dans notre culture, et choisir ce qui honore Dieu, son conjoint et la famille de Dieu.

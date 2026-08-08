@@ -11,5 +11,9 @@
   <main>
     {{ content }}
   </main>
+  <hr>
+  <footer>
+    <p>&copy; {{ 'now' | date: '%Y' }} AK{% if page.last_modified %} - Dernière modification : {{ page.last_modified | date: '%d-%m-%Y' }}{% endif %}</p>
+  </footer>
 </body>
 </html>

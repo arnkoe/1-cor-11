@@ -1,9 +1,6 @@
 body {
-  margin: 1em auto;
-  max-width: 40em;
-  font: 1.1em/1.4 serif;
-}
-
-h1, h2, h3 {
-  line-height: 1.2;
+  margin: 0 auto;
+  max-width: 650px;
+  padding: 20px 10px;
+  font: 1.2em/1.1 serif;
 }

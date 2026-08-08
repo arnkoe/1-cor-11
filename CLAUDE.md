@@ -8,3 +8,4 @@
 - Traiter les lectures concurrentes de façon équilibrée (sources, appui sur le texte) ; ignorer les interprétations marginales contredites par le passage.
 - Ne pas exagérer ni symétriser la portée d'un texte ; employer des termes précis.
 - « église » locale en minuscule, « Église » universelle en majuscule.
+- Guillemets français « » : espace insécable (U+00A0) après « et avant », jamais une espace normale, pour éviter qu'un guillemet se retrouve seul en début de ligne.

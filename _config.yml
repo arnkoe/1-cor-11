@@ -2,7 +2,7 @@ lang: fr
 locale: fr_FR
 
 url: "https://arnkoe.github.io"
-baseurl: "/1-cor-11"
+baseurl: "/articles"
 
 exclude:
   - Sources/

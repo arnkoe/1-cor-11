@@ -32,7 +32,7 @@ Les deux sections qui suivent vont d'ailleurs nuancer ce compliment chacune à l
 >
 > **Semeur.** « Je voudrais cependant attirer votre attention sur un point : Christ est le chef de tout homme, l'homme est le chef de la femme, le chef de Christ, c'est Dieu. »
 
-C'est le fondement théologique du passage. Le mot grec *kephalē* (« tête », « chef ») fait l'objet d'un débat célèbre : certains y voient une idée d'autorité, d'autres une idée de source ou d'origine, comme la « tête » d'un fleuve. [Wayne Grudem défend le premier sens](https://biblicalstudies.org.uk/pdf/tj/kephale_grudem.pdf), et [Alan Johnson a dressé le bilan du débat](https://www.cbeinternational.org/resource/meta-study-debate-over-meaning-head-kephale-pauls-writings/). Les versets 8 et 12 appuient plutôt le sens d'origine, mais les deux nuances peuvent coexister.
+C'est le fondement théologique du passage. Le mot grec *kephalē* (« tête », « chef ») fait l'objet d'un débat célèbre : certains y voient une idée d'autorité, d'autres une idée de source ou d'origine, comme la « tête » d'un fleuve. Les versets 8 et 12 appuient plutôt le sens d'origine, mais les deux nuances peuvent coexister.
 
 Notez l'ordre surprenant de la phrase : Christ/homme, homme/femme, Dieu/Christ. Paul termine par « Dieu est le chef de Christ », ce qui interdit de lire une infériorité de nature. Le Fils est pleinement Dieu tout en se soumettant au Père.
 
@@ -130,11 +130,11 @@ Paul souligne une orientation relationnelle dans la création : l'homme et la fe
 
 Verset le plus difficile du passage. Deux problèmes s'entremêlent.
 
-D'abord le mot *exousia* (« autorité »). Le grec dit littéralement que la femme « doit avoir autorité sur sa tête ». Les mots « une marque de » et « dont elle dépend » sont ajoutés par les traducteurs ; la Darby révisée les met entre crochets. [Partout ailleurs dans le Nouveau Testament, *exousia* a un sens actif](https://translation.bible/wp-content/uploads/2024/06/kendrick-1995-authority-women-and-angels-translating-1-corinthians-11-10.pdf) : une autorité que l'on possède, pas un signe de l'autorité d'un autre.
+D'abord le mot *exousia* (« autorité »). Le grec dit littéralement que la femme « doit avoir autorité sur sa tête ». Les mots « une marque de » et « dont elle dépend » sont ajoutés par les traducteurs ; la Darby révisée les met entre crochets. Deux lectures s'opposent.
 
-Beaucoup comprennent donc : la femme possède l'autorité de prier et de prophétiser, et le voile en est l'expression visible. Il rend l'exercice de ce droit honorable, en attestant qu'elle agit dans le respect de l'ordre voulu par Dieu et non en indépendante.
+La première s'appuie sur l'usage du mot : ailleurs dans le Nouveau Testament, *exousia* désigne une autorité que l'on possède, pas le signe de l'autorité d'un autre. La femme possède donc l'autorité de prier et de prophétiser, et le voile en est l'expression visible. Il rend l'exercice de ce droit honorable, en attestant qu'elle agit dans le respect de l'ordre voulu par Dieu et non en indépendante.
 
-Cette lecture ne fait pas l'unanimité. [Thomas Schreiner lui oppose la structure du passage](https://document.desiringgod.org/recovering-biblical-manhood-and-womanhood-en.pdf) : le verset 10 répond au verset 7. L'homme « ne doit pas » se couvrir la tête ; la femme « doit » avoir autorité sur la tête. Le verbe « doit » exprime une obligation, pas un droit qu'on possède déjà. Un objet porté sur la tête peut d'ailleurs symboliser l'autorité d'un autre : [Diodore de Sicile décrit une statue portant « trois royaumes sur la tête »](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/1C*.html), trois couronnes rappelant que cette femme fut fille, épouse et mère de rois (*Bibliothèque historique* 1.47.5). Les Pères grecs lisaient le verset dans ce sens : [pour Jean Chrysostome, être couverte est « une marque de soumission »](https://www.newadvent.org/fathers/220126.htm) (*Homélie 26 sur 1 Corinthiens*). Le débat reste ouvert.
+La seconde s'appuie sur la structure du passage : le verset 10 répond au verset 7. L'homme « ne doit pas » se couvrir la tête ; la femme « doit » avoir autorité sur la tête. Le verbe « doit » exprime une obligation, pas un droit qu'on possède déjà, et le voile symbolise alors l'autorité dont la femme dépend. C'est la lecture ancienne : [pour Jean Chrysostome, être couverte est « une marque de soumission »](https://www.newadvent.org/fathers/220126.htm) (*Homélie 26 sur 1 Corinthiens*). Le débat reste ouvert.
 
 Ensuite « à cause des anges ». L'explication la plus sobre voit dans les anges les témoins de la vie des croyants et les gardiens de l'ordre créé (comparez 1 Corinthiens 4.9, 1 Timothée 5.21, 1 Pierre 1.12). Leur regard ne se limite pas à un moment particulier : ils accompagnent toute la vie chrétienne, ce qui s'accorde avec la portée générale de l'instruction.
 
@@ -182,7 +182,7 @@ Remarquez aussi la formulation : « qu'une femme prie Dieu », sans mention d'un
 >
 > **Semeur.** « Ne paraît-il pas naturel à tout le monde que c'est une indignité pour un homme de porter des cheveux longs »
 
-Le mot « nature » (*phusis*) désigne ici moins la biologie que l'ordre des choses tel qu'il est ressenti et vécu, y compris dans ses expressions culturelles. Dans le monde gréco-romain du premier siècle, les cheveux longs chez un homme évoquaient l'efféminement ou certaines pratiques religieuses païennes.
+Le mot « nature » (*phusis*) désigne ici moins la biologie que l'ordre des choses tel qu'il est ressenti et vécu, y compris dans ses expressions culturelles. Dans le monde gréco-romain du premier siècle, une chevelure longue et apprêtée chez un homme évoquait l'efféminement : [Philon range les hommes aux cheveux « bouclés et parés avec soin » parmi les efféminés](https://www.earlyjewishwritings.com/text/philo/book29.html) (*Lois spéciales* 3.37).
 
 Paul s'appuie sur ce sentiment commun comme argument de renfort, pas comme loi absolue. Le vœu de naziréat imposait justement les cheveux longs (Nb 6.5), et [les jeunes Spartiates soignaient leur chevelure avant le combat](https://remacle.org/bloodwolf/historiens/Plutarque/lycurgue1.htm) (Plutarque, *Vie de Lycurgue* 22).
 
@@ -198,7 +198,7 @@ Ce sens du mot est pourtant discuté. Dans ses huit autres emplois chez Paul, *p
 
 La longue chevelure féminine est présentée comme une gloire et comme un « voile » naturel. Le mot grec *peribolaion* désigne un vêtement qui enveloppe. L'argument est intéressant : la nature elle-même donne à la femme une couverture, ce qui confirme la convenance du voile.
 
-Certains interprètes vont plus loin et pensent que la chevelure elle-même est la couverture demandée par Paul. [William J. Martin a défendu cette lecture](https://biblicalstudies.org.uk/pdf/ahg/corinthians_martin.pdf). Elle reste minoritaire, mais elle montre la souplesse du texte.
+Certains interprètes vont plus loin et pensent que la chevelure elle-même est la couverture demandée par Paul. Cette lecture reste minoritaire, mais elle montre la souplesse du texte.
 
 ### Verset 16
 

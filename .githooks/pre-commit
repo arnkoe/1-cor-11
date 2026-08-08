@@ -1,0 +1,18 @@
+#!/bin/sh
+# Met a jour last_modified dans le front matter de tout article modifie.
+today=$(date +%Y-%m-%d)
+
+for file in $(git diff --cached --name-only --diff-filter=ACM -- '*.md'); do
+  [ -f "$file" ] || continue
+  grep -q '^article: true' "$file" || continue
+
+  if grep -q '^last_modified:' "$file"; then
+    sed -i '' "s/^last_modified:.*/last_modified: $today/" "$file"
+  else
+    sed -i '' "/^article: true/a\\
+last_modified: $today
+" "$file"
+  fi
+
+  git add "$file"
+done
